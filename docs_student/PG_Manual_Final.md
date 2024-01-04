@@ -1,863 +1,682 @@
-﻿![](Aspose.Words.cd16d631-623c-48c0-b1ed-21d44661e729.001.png)
 
-**PG Manual**
+## Guidelines and Regulations 
 
-![](Aspose.Words.cd16d631-623c-48c0-b1ed-21d44661e729.002.png)
+## 2020 
 
-Guidelines and Regulations 2020
+# PG Manual 
 
-![](Aspose.Words.cd16d631-623c-48c0-b1ed-21d44661e729.003.png)
+
+ i 
 
 **Table of Contents** 
 
-1. [**ADMISSION TO I-Ph.D. PROGRAMME...........................1**](#_page4_x48.00_y417.00)
-1. [**CURRICULUM OF I-Ph.D. PROGRAMME......................2**](#_page5_x48.00_y452.00)
-1. [**ACADEMIC FRAMEWORK OF THE I-Ph.D. PROGRAMME ......................................................................4**](#_page7_x48.00_y51.00)
-4. [**TERMINATION FROM THE I-Ph.D. PROGRAMME ....6**](#_page9_x48.00_y111.00)
-4. [**MINIMUM RESIDENCY AND MAXIMUM DURATION OF I-Ph.D. PROGRAMME ..................................................6**](#_page9_x48.00_y328.00)
-6. [**GRADUATION REQUIREMENTS OF I-Ph.D. PROGRAMME ......................................................................6**](#_page9_x48.00_y489.00)
-6. [**EXITING THE I-Ph.D.  PROGRAMME WITH MS DEGREE …… ........................................................................7**](#_page10_x48.00_y474.00)
-6. [**ASSISTANTSHIP/FELLOWSHIP FOR I-Ph.D.  STUDENTS .............................................................................8**](#_page11_x48.00_y379.00)
-6. [**LEAVE FOR I-Ph.D. STUDENTS ........................................9**](#_page12_x48.00_y212.00)
-1. [**Short Leave** .................................................................................. 9](#_page12_x48.00_y271.00)
-1. [**Medical Leave** .............................................................................. 9](#_page12_x48.00_y379.00)
-1. [**Semester Leave** .......................................................................... 10](#_page13_x48.00_y89.00)
-10. [**ADMISSION TO Ph.D. PROGRAMME ...........................11**](#_page14_x48.00_y361.00)
-10. [**CURRICULUM FOR Ph.D. PROGRAMME....................14**](#_page17_x48.00_y297.00)
-1. [**Academic Load** .......................................................................... 14](#_page17_x48.00_y388.00)
-1. [**Inadequate Academic Performance** ......................................... 15](#_page18_x48.00_y206.00)
-12. [**MANDATORY REQUIREMENTS FOR Ph.D. PROGRAMME ....................................................................16**](#_page19_x48.00_y51.00)
-1. [**Minimum Residence and Maximum Duration** ....................... 16](#_page19_x48.00_y89.00)
-1. [**Academic Requirements** ........................................................... 16](#_page19_x48.00_y259.00)
-3. [**Provisions for Relaxation** .......................................................... 18](#_page21_x48.00_y472.00)
-3. [**Assignment of Thesis Supervisor** ............................................. 19](#_page22_x48.00_y89.00)
-3. [**Assignment of Alternate Thesis Supervisor** ............................ 20](#_page23_x48.00_y206.00)
-3. [**Comprehensive Examination**.................................................... 21](#_page24_x48.00_y89.00)
-3. [**Candidacy for the Ph.D. Degree** ............................................... 22](#_page25_x48.00_y450.00)
-3. **Graduate Seminars**.................................................................... 23
-3. **Open Seminar** ............................................................................ 23
-3. **Ph.D. Thesis Evaluation Board** ................................................ 24
-3. [**Ph.D. Thesis Evaluation** ............................................................ 26](#_page29_x48.00_y499.00)
-3. [**Submission of Evaluated Thesis** ............................................... 29](#_page32_x48.00_y136.00)
-3. [**Ph.D. Oral Board** ....................................................................... 29](#_page32_x48.00_y323.00)
-3. [**Ph.D. Oral Examination**............................................................ 30](#_page33_x48.00_y389.00)
-13. [**GRADUATION REQUIREMENTS OF Ph.D. PROGRAMME ....................................................................32**](#_page35_x48.00_y335.00)
-14. [**FELLOWSHIP FOR Ph.D. PROGRAMME .....................34**](#_page37_x48.00_y259.00)
-14. [**LEAVE FOR Ph.D. STUDENTS ........................................35**](#_page38_x48.00_y51.00)
-1. [**Annual Leave** ............................................................................. 35](#_page38_x48.00_y73.00)
-1. [**Leave for Academic Activities** .................................................. 35](#_page38_x48.00_y436.00)
-1. [**Maternity Leave** ........................................................................ 36](#_page39_x48.00_y206.00)
-1. [**Paternity Leave** .......................................................................... 36](#_page39_x48.00_y440.00)
-1. [**Leave Until Oral Examination** ................................................. 37](#_page40_x48.00_y51.00)
-1. [**Semester Leave** .......................................................................... 37](#_page40_x48.00_y275.00)
-16. [**FINANCIAL ASSISTANTSHIP FOR ATTENDING CONFERENCES (FAAC) SCHEME .................................38**](#_page41_x48.00_y109.00)
-17. [**PROVISIONS FOR RELAXATION ..................................38**](#_page41_x48.00_y494.00)
-17. [**PROVISIONS FOR AMENDMENTS ................................39**](#_page42_x48.00_y126.00)
+**1. ADMISSION TO I-Ph.D. PROGRAMME...........................1** 
 
-ii **![ref1]**
+**2. CURRICULUM OF I-Ph.D. PROGRAMME ......................2** 
 
-**Integrated Ph.D. Programme**
+**3. ACADEMIC FRAMEWORK OF THE I-Ph.D.**     **PROGRAMME ......................................................................4** 
 
-Integrated Ph.D. (I-Ph.D.) programme is offered for students with Bachelor’s Degree. The programme is currently offered in the following Departments  
+**4. TERMINATION FROM THE I-Ph.D. PROGRAMME ....6** 
 
-- Chemistry 
-- Mathematics 
-- Physics 
+**5. MINIMUM RESIDENCY AND MAXIMUM DURATION**     **OF I-Ph.D. PROGRAMME ..................................................6** 
 
-The programme aims to provide young motivated individuals with  a  rigorous  training,  desired  level  of  scientific understanding,  and  a  glimpse  of  global  contemporary research at an early stage to enable them to pursue a career in science education and research.  
+**6. GRADUATION REQUIREMENTS OF I-Ph.D.**     **PROGRAMME ......................................................................6** 
 
-After successful completion of the coursework based on the advanced professional courses, students may continue with the  state-of-the-art  research  that  leads  to  the  PhD  degree. However, the students, who do not intend to carry out their PhD degree,  can exit the programme with  an  MS Degree after  fulfilling  all  the  requirements  for  the  award  of  MS Degree. 
+**7. EXITING THE I-Ph.D. PROGRAMME WITH MS**     **DEGREE ...... ........................................................................7** 
 
-1. **ADMISSION<a name="_page4_x48.00_y417.00"></a> TO I-Ph.D. PROGRAMME** 
+**8. ASSISTANTSHIP/FELLOWSHIP FOR I-Ph.D.**     **STUDENTS .............................................................................8** 
 
-   Students  are  admitted  to  the  Integrated  Ph.D. programme, once a year in August. Students must have Bachelor’s  Degree  in  the  relevant  discipline  with  a minimum  of  60%  marks or  Cumulative  Grade  Point Average/Cumulative Performance Index (CGPA/CPI) 7.0 in a 10 point scale. Candidates who have passed their  graduate  examination  in  the  preceding  year  or ![ref2] appearing  in  the  final  year  examination  of  their Bachelor’s Degree can apply. 
+**9. LEAVE FOR I-Ph.D. STUDENTS........................................9** 
 
-Additionally,  the  applicants  should  qualify  the nationwide  aptitude  test,  Joint  Admission  Test  for M.Sc.  (JAM)  for  admission  to  Integrated  Ph.D. programme in Mathematics and Chemistry and Joint Entrance  Screening  Test  (JEST)  for  admission  to Integrated Ph.D. programme in Physics. 
+ 9.1 Short Leave .................................................................................. 9 9.2 Medical Leave .............................................................................. 9 9.3 Semester Leave .......................................................................... 10 
 
-Prospective  students  must  apply  for  admission following  advertisements  along  with  the  required documents, to the DoAA. 
+**10. ADMISSION TO Ph.D. PROGRAMME ...........................11** 
 
-Applicants  will  be  selected  for  admission  to  the Integrated  Ph.D.  programme  by  the  concerned Departmental  Selection  Committee,  comprising  of faculty members of the Department, duly constituted by  the  Head  of  the  Department.  The  Chairperson, Senate/DoAA will approve the admission.  
+**11. CURRICULUM FOR Ph.D. PROGRAMME ....................14** 
 
-Selection of applicants for admission to the Integrated Ph.D. programme will be based on a written test and/or oral  interview  of  the  short-listed  candidates.  SC/ST candidates  will  be  interviewed  first  and  will  not  be compared with general category candidates. 
+ 11.1 Academic Load .......................................................................... 14 11.2 Inadequate Academic Performance ......................................... 15 
 
-2. **CURRICULUM<a name="_page5_x48.00_y452.00"></a> OF I-Ph.D. PROGRAMME** 
+**12. MANDATORY REQUIREMENTS FOR Ph.D.**     **PROGRAMME ....................................................................16**     **12.1 Minimum Residence and Maximum Duration** ....................... 16     **12.2 Academic Requirements** ........................................................... 16 
 
-   The Integrated Ph.D. programme comprises of course work and research work. The aim of the course work is to  strengthen  the  fundamental  understanding  in  the subject  and to prepare them  for conducting  research work.  ![ref2]
+
+ ii 
+
+ 12.3 Provisions for Relaxation .......................................................... 18 12.4 Assignment of Thesis Supervisor ............................................. 19 12.5 Assignment of Alternate Thesis Supervisor ............................ 20 12.6 Comprehensive Examination .................................................... 21 12.7 Candidacy for the Ph.D. Degree ............................................... 22 12.8 Graduate Seminars .................................................................... 23 12.9 Open Seminar ............................................................................ 23 12.10 Ph.D. Thesis Evaluation Board ................................................ 24 12.11 Ph.D. Thesis Evaluation ............................................................ 26 12.12 Submission of Evaluated Thesis ............................................... 29 12.13 Ph.D. Oral Board ....................................................................... 29 12.14 Ph.D. Oral Examination ............................................................ 30 
+
+**13. GRADUATION REQUIREMENTS OF Ph.D.**     **PROGRAMME ....................................................................32** 
+
+**14. FELLOWSHIP FOR Ph.D. PROGRAMME .....................34** 
+
+**15. LEAVE FOR Ph.D. STUDENTS ........................................35** 
+
+ 15.1 Annual Leave ............................................................................. 35 15.2 Leave for Academic Activities .................................................. 35 15.3 Maternity Leave ........................................................................ 36 15.4 Paternity Leave .......................................................................... 36 15.5 Leave Until Oral Examination ................................................. 37 15.6 Semester Leave .......................................................................... 37 
+
+**16. FINANCIAL ASSISTANTSHIP FOR ATTENDING**     **CONFERENCES (FAAC) SCHEME .................................38** 
+
+**17. PROVISIONS FOR RELAXATION ..................................38** 
+
+**18. PROVISIONS FOR AMENDMENTS ................................39** 
+
+
+## Integrated Ph.D. Programme 
+
+Integrated Ph.D. (I-Ph.D.) programme is offered for students with Bachelor’s Degree. The programme is currently offered in the following Departments 
+
+ Chemistry  Mathematics  Physics 
+
+The programme aims to provide young motivated individuals with a rigorous training, desired level of scientific understanding, and a glimpse of global contemporary research at an early stage to enable them to pursue a career in science education and research. 
+
+After successful completion of the coursework based on the advanced professional courses, students may continue with the state-of-the-art research that leads to the PhD degree. However, the students, who do not intend to carry out their PhD degree, can exit the programme with an MS Degree after fulfilling all the requirements for the award of MS Degree. 
+
+**1. ADMISSION TO I-Ph.D. PROGRAMME** 
+
+ Students are admitted to the Integrated Ph.D. programme, once a year in August. Students must have Bachelor’s Degree in the relevant discipline with a minimum of 60% marks or Cumulative Grade Point Average/Cumulative Performance Index (CGPA/CPI) 7.0 in a 10 point scale. Candidates who have passed their graduate examination in the preceding year or 
+
+
+ appearing in the final year examination of their Bachelor’s Degree can apply. Additionally, the applicants should qualify the nationwide aptitude test, Joint Admission Test for M.Sc. (JAM) for admission to Integrated Ph.D. programme in Mathematics and Chemistry and Joint Entrance Screening Test (JEST) for admission to Integrated Ph.D. programme in Physics. Prospective students must apply for admission following advertisements along with the required documents, to the DoAA. Applicants will be selected for admission to the Integrated Ph.D. programme by the concerned Departmental Selection Committee, comprising of faculty members of the Department, duly constituted by the Head of the Department. The Chairperson, Senate/DoAA will approve the admission. Selection of applicants for admission to the Integrated Ph.D. programme will be based on a written test and/or oral interview of the short-listed candidates. SC/ST candidates will be interviewed first and will not be compared with general category candidates. 
+
+**2. CURRICULUM OF I-Ph.D. PROGRAMME** 
+
+ The Integrated Ph.D. programme comprises of course work and research work. The aim of the course work is to strengthen the fundamental understanding in the subject and to prepare them for conducting research work. 
+
 
 **Academic Requirements** 
 
-Integrated  Ph.D.  students  will  have  to  register  for course work as specified by respective departments.  
+Integrated Ph.D. students will have to register for course work as specified by respective departments. 
 
-Integrated  Ph.D.  students  should  register  for  a  total minimum  of  128  credits  (coursework  and  research work)  of  which  minimum  40  credits  must  be  from research  work  and  48  credits  must  be  from  course work. The remaining credits can be as per the advice of the department.  
+Integrated Ph.D. students should register for a total minimum of 128 credits (coursework and research work) of which minimum 40 credits must be from research work and 48 credits must be from course work. The remaining credits can be as per the advice of the department. 
 
-Besides the above-mentioned minimum requirements, a Department may prescribe some additional credits of courses/thesis work approved by the Senate.  
+Besides the above-mentioned minimum requirements, a Department may prescribe some additional credits of courses/thesis work approved by the Senate. 
 
-After  fulfillment  of  a  total  minimum  credit requirement,  an  Integrated  Ph.D.  student  may  be allowed  to  register  for  a  minimum  of  4  credits  per semester  until  the  completion  of  the  program  to  be considered as a full time student. 
+After fulfillment of a total minimum credit requirement, an Integrated Ph.D. student may be allowed to register for a minimum of 4 credits per semester until the completion of the program to be considered as a full time student. 
 
-The Senate may also allow Integrated Ph.D. students to credit courses in other academic Institutions.  
+The Senate may also allow Integrated Ph.D. students to credit courses in other academic Institutions. 
 
-Students conducting a part of their research work at other  academic  institutions  may  seek  residence  and research credits for the time spent outside. However, such work must be carried out under the guidance of IISER Bhopal faculty and his/her thesis supervisor will evaluate the progress of this work. Prior to undertaking work outside IISER Bhopal, the student must obtain consent from the DPGC and approval from DoAA. ![ref2]
+Students conducting a part of their research work at other academic institutions may seek residence and research credits for the time spent outside. However, such work must be carried out under the guidance of IISER Bhopal faculty and his/her thesis supervisor will evaluate the progress of this work. Prior to undertaking work outside IISER Bhopal, the student must obtain consent from the DPGC and approval from DoAA. 
 
-3. **ACADEMIC<a name="_page7_x48.00_y51.00"></a>  FRAMEWORK  OF  THE  I-Ph.D. PROGRAMME** 
 
-   The  Integrated  Ph.D.  program  requirements  include coursework and research work.  
+**3. ACADEMIC FRAMEWORK OF THE I-Ph.D.**     **PROGRAMME**     The Integrated Ph.D. program requirements include     coursework and research work.     The details of academic requirements which every     Integrated Ph.D. student must complete satisfactorily     in order to continue in the program of IISER Bhopal     are listed below:      Academic Performance Requirements        o A student must attain a minimum CPI of 7.0 in           the first two years in order to continue his/her           candidacy for Ph.D.        o Student who wishes to continue with PhD.           Programme must submit a declaration to this           effect by the end of 3rd^ year.        o Students having CPI less than 6.0 at the end of           fourth semester may either exit the programme or           continue to work towards obtaining an MS           degree. Academic requirements during this           period will be as mentioned in ‘Exiting the           programme with MS degree’.        o More than 4F grades in the first two years will           lead to termination of the student from the           programme.        o If a student gets an ‘F’ grade in a core course in           the first two years, he/she must take the same           course as an overload/appear in re-examination           and improve the grade. 
 
-The  details  of  academic  requirements  which  every Integrated Ph.D. student must complete satisfactorily in order to continue in the program of IISER Bhopal are listed below: 
 
-- Academic Performance Requirements 
-- A student must attain a minimum CPI of 7.0 in the first two years in order to continue his/her candidacy for Ph.D.  
-- Student  who  wishes  to  continue  with  PhD. Programme  must  submit  a  declaration  to  this effect by the end of 3rd year. 
-- Students having CPI less than 6.0 at the end of fourth semester may either exit the programme or continue  to  work  towards  obtaining  an  MS degree.  Academic  requirements  during  this period  will  be  as  mentioned  in  ‘Exiting  the programme with MS degree’. 
-- More than 4F grades in the first two years will lead  to  termination  of  the  student  from  the programme. 
-- If a student gets an ‘F’ grade in a core course in the  first  two  years,  he/she  must  take  the  same course as an overload/appear in re-examination and improve the grade.  ![ref2]
-- If  a  student  gets  an  ‘F’  grade  in  an  elective course in the first two years, he/she can substitute it  with  another  elective  as  an  overload  and improve the grade. 
-- The student must have a minimum CPI of 7.0 at the  end  of  every  semester  in  order  to  receive Institute assistantship.  
-- Comprehensive  Examination  (Ph.D.  candidacy requirements): The format and the conduct of the comprehensive  exam  will  be  decided  by  the department.  The  student  must  clear  the comprehensive  exam  before  the  start  of  eighth semester.  The  candidate  will  be  graded  as “Satisfactory” or “Unsatisfactory” at the end of the examination.  If  graded  “Unsatisfactory”,  the candidate is allowed to repeat the exam only once within a time frame decided by the department. In case the candidate cannot improve the grade, s/he will  be  terminated  from  the  Integrated  PhD program.  Once  the  student  clears  comprehensive exam, s/he will be treated at par with PhD students who have cleared the comprehensive exam. 
-- Research Credits:  After the successful completion of comprehensive exam and graduate seminar, the students  should  register  for  16  research  credits every  semester  till  the  submission  of  PhD  thesis. These  credits  will  be  graded  as  satisfactory/ unsatisfactory by the respective thesis supervisor at the end of each semester and will not account for the  SPI/CPI.  Any  student  who  is  graded  as “Unsatisfactory”  for  32  credits  of  research  work ![ref2] after  the  comprehensive  exam  can  be  terminated from the program. 
-4. **TERMINATION<a name="_page9_x48.00_y111.00"></a>  FROM  THE  I-Ph.D. PROGRAMME** 
+ o If a student gets an ‘F’ grade in an elective course in the first two years, he/she can substitute it with another elective as an overload and improve the grade. o The student must have a minimum CPI of 7.0 at the end of every semester in order to receive Institute assistantship. 
 
-   A student may be terminated from the Integrated Ph.D. programme under the following circumstances:  
+ Comprehensive Examination (Ph.D. candidacy requirements): The format and the conduct of the comprehensive exam will be decided by the department. The student must clear the comprehensive exam before the start of eighth semester. The candidate will be graded as “Satisfactory” or “Unsatisfactory” at the end of the examination. If graded “Unsatisfactory”, the candidate is allowed to repeat the exam only once within a time frame decided by the department. In case the candidate cannot improve the grade, s/he will be terminated from the Integrated PhD program. Once the student clears comprehensive exam, s/he will be treated at par with PhD students who have cleared the comprehensive exam. 
 
-- More than 4 ‘F’ grades in the first two years will lead to termination of the programme. 
-- Has earned 8 ‘X’ grades in research work.  
-- Has earned 6 or more ‘X’ grades in research work in two consecutive semesters. 
-- Is unable to qualify the comprehensive exam in two attempts before registering for the 8th Semester. 
-5. **MINIMUM<a name="_page9_x48.00_y328.00"></a>  RESIDENCY  AND  MAXIMUM DURATION OF I-Ph.D. PROGRAMME** 
+ Research Credits: After the successful completion of comprehensive exam and graduate seminar, the students should register for 16 research credits every semester till the submission of PhD thesis. These credits will be graded as satisfactory/ unsatisfactory by the respective thesis supervisor at the end of each semester and will not account for the SPI/CPI. Any student who is graded as “Unsatisfactory” for 32 credits of research work 
 
-   Minimum  residency  requirement  for  submission  of Ph.D.  thesis  is  4  years  (out  of  which  two  years  of research/project work is mandatory for submitting the Ph.D.  thesis).  The  registration  of  a  student  will automatically be cancelled if he/she does not submit the thesis within 9 years of joining the program. 
 
-6. **GRADUATION<a name="_page9_x48.00_y489.00"></a>  REQUIREMENTS  OF  I-Ph.D. PROGRAMME** 
+ after the comprehensive exam can be terminated from the program. 
 
-   A  student  shall  be  deemed  to  have  completed  the graduation requirements, if the student  ![ref2]
+**4. TERMINATION FROM THE I-Ph.D.**     **PROGRAMME**     A student may be terminated from the Integrated Ph.D.     programme under the following circumstances:      More than 4 ‘F’ grades in the first two years will        lead to termination of the programme.      Has earned 8 ‘X’ grades in research work.      Has earned 6 or more ‘X’ grades in research work in        two consecutive semesters.      Is unable to qualify the comprehensive exam in two        attempts before registering for the 8th^ Semester. 
 
-- Has completed a minimum residence of 4 years (and no  more  than  9  years)  from  admission  to  the programme.  
-- Has no ‘F’ grade in all courses registered for. 
-- Has qualified the comprehensive exam, admitted to Ph.D.  candidacy,  presented  Graduate,  and  Open Seminars,  submitted  Ph.D.  thesis,  and  passed  the thesis Oral Examination. 
-- Has  completed  all  specified  credit  requirements (course and research work). 
-- Has earned a minimum CPI of 7.0 on a 10.0 point scale in addition to the credit requirements. 
-- Has satisfied all other requirements specified by the concerned Department, if any. 
-- Has satisfied all the requirements specified by the Senate and the Ordinances. 
-- Has paid all the dues to the Institute, as applicable. 
-- Has no case of indiscipline pending against him/her. 
+**5. MINIMUM RESIDENCY AND MAXIMUM**     **DURATION OF I-Ph.D. PROGRAMME**     Minimum residency requirement for submission of     Ph.D. thesis is 4 years (out of which two years of     research/project work is mandatory for submitting the     Ph.D. thesis). The registration of a student will     automatically be cancelled if he/she does not submit     the thesis within 9 years of joining the program. 
 
-Upon completion of the graduation requirements and fulfilling  the  requirement  for  participation  in  the Convocation,  the  student  will  be  awarded  his/her degree during the convocation. 
+**6. GRADUATION REQUIREMENTS OF I-Ph.D.**     **PROGRAMME**     A student shall be deemed to have completed the     graduation requirements, if the student 
 
-7. **EXITING<a name="_page10_x48.00_y474.00"></a>  THE  I-Ph.D.   PROGRAMME  WITH MS DEGREE** 
 
-   All  students  admitted  to  the  Integrated  Ph.D. programme are expected to work towards obtaining a Ph.D. Degree. However, after completing six semesters ![ref2] a student may be permitted to exit the programme with an MS degree subject to fulfilment of the following: 
+  Has completed a minimum residence of 4 years (and no more than 9 years) from admission to the programme.  Has no ‘F’ grade in all courses registered for.  Has qualified the comprehensive exam, admitted to Ph.D. candidacy, presented Graduate, and Open Seminars, submitted Ph.D. thesis, and passed the thesis Oral Examination.  Has completed all specified credit requirements (course and research work).  Has earned a minimum CPI of 7.0 on a 10.0 point scale in addition to the credit requirements.  Has satisfied all other requirements specified by the concerned Department, if any.  Has satisfied all the requirements specified by the Senate and the Ordinances.  Has paid all the dues to the Institute, as applicable.  Has no case of indiscipline pending against him/her. Upon completion of the graduation requirements and fulfilling the requirement for participation in the Convocation, the student will be awarded his/her degree during the convocation. 
 
-1. He/she  has  earned  a  total  minimum  credit  of  96 comprising of a minimum course credit of 48.  
-1. He/she has cleared all the courses registered for. 
-1. He/she has obtained a minimum CPI of 6.0. 
+**7. EXITING THE I-Ph.D. PROGRAMME WITH**     **MS DEGREE**     All students admitted to the Integrated Ph.D.     programme are expected to work towards obtaining a     Ph.D. Degree. However, after completing six semesters 
 
-At the end of six semesters, if a student did not meet the  academic  requirements  for  Integrated  Ph.D. programme or MS degree (exit option), he/she with the permission  of  DUGC/DPGC/DoAA  can  register  for additional year to meet the minimum requirements for obtaining an MS degree. However, if the student fails to meet the requirement specified for MS degree within 4 years, he/she will be terminated without award of any degree.   
 
-Fellowship will be paid for a maximum period of 3 years only subject to meeting the specified criteria.  
+ a student may be permitted to exit the programme with an MS degree subject to fulfilment of the following: 
 
-8. **ASSISTANTSHIP/FELLOWSHIP<a name="_page11_x48.00_y379.00"></a>  FOR  I-Ph.D. STUDENTS**  
+1. He/she has earned a total minimum credit of 96     comprising of a minimum course credit of 48. 
 
-   Students  will  be  paid  fellowship  as  per  the  Institute policy provided the student maintains a CPI of 7 or more at the end of every semester. 
+2. He/she has cleared all the courses registered for. 
 
-Upon  successful  completion  of  the  third  year,  the students who continue with the Ph.D. programme will be  paid  enhanced  fellowship  at  par  with  the  Ph.D. fellows. The arrears for difference of the fellowship of third year are paid by the end of seventh semester. Arrear will not be paid to for the tenure during which ![ref2] the  student  did  not  qualify  to  receive  fellowship during the third year of Integrated Ph.D. programme.  
+3. He/she has obtained a minimum CPI of 6.0. At the end of six semesters, if a student did not meet the academic requirements for Integrated Ph.D. programme or MS degree (exit option), he/she with the permission of DUGC/DPGC/DoAA can register for additional year to meet the minimum requirements for obtaining an MS degree. However, if the student fails to meet the requirement specified for MS degree within 4 years, he/she will be terminated without award of any degree. Fellowship will be paid for a maximum period of 3 years only subject to meeting the specified criteria. 
 
-Students,  who  have  successfully  qualified  national level  exams  such as  CSIR-JRF/DBT-JRF/UGC-JRF or equivalent agencies, should submit the completed and relevant forms for activation of the fellowship to the granting agency through the Institute, as soon as they are awarded with the same.   
+**8. ASSISTANTSHIP/FELLOWSHIP FOR I-Ph.D.**     **STUDENTS**     Students will be paid fellowship as per the Institute     policy provided the student maintains a CPI of 7 or     more at the end of every semester.     Upon successful completion of the third year, the     students who continue with the Ph.D. programme will     be paid enhanced fellowship at par with the Ph.D.     fellows. The arrears for difference of the fellowship     of third year are paid by the end of seventh semester.     Arrear will not be paid to for the tenure during which 
 
-9. **LEAVE<a name="_page12_x48.00_y212.00"></a> FOR I-Ph.D. STUDENTS** 
 
-   Students  can  avail  the  following  leaves  till  the completion of the Ph.D. candidacy,  
+ the student did not qualify to receive fellowship during the third year of Integrated Ph.D. programme. Students, who have successfully qualified national level exams such as CSIR-JRF/DBT-JRF/UGC-JRF or equivalent agencies, should submit the completed and relevant forms for activation of the fellowship to the granting agency through the Institute, as soon as they are awarded with the same. 
 
-1. **Short<a name="_page12_x48.00_y271.00"></a> Leave** 
+**9. LEAVE FOR I-Ph.D. STUDENTS** 
 
-   Leave of absence during the semester is discouraged for  all  registered  students.  However,  for  genuine reasons,  student  may  be  granted  leave  of  absence during the semester for a maximum of 7 days subject to prior approval. 
+ Students can avail the following leaves till the completion of the Ph.D. candidacy, 
 
-2. **Medical<a name="_page12_x48.00_y379.00"></a> Leave** 
+**9.1 Short Leave** 
 
-   A student is permitted to avail medical leave during a semester  for  a  maximum  duration  of  15  days  upon submission  of  medical  certificate  (hand  delivered through a representative or email/hardcopy) to Office of  Academic  Affairs.  A  student  who  remains  on authorized leave of absence due to ill health is required to submit a certificate of fitness by a registered medical practitioner prior to resuming the semester. If a student has to be away for more than 15 working days even ![ref2] due  to  medical  reasons,  he/she  may  have  to  drop  a semester. 
+ Leave of absence during the semester is discouraged for all registered students. However, for genuine reasons, student may be granted leave of absence during the semester for a maximum of 7 days subject to prior approval. 
 
-3. **Semester<a name="_page13_x48.00_y89.00"></a> Leave** 
+**9.2 Medical Leave** 
 
-   Students, for bonafide reasons, can avail a maximum of  two  semesters  leave.  Except  for  medical  reasons, such leave  will not  be  normally sanctioned unless  a student  has  spent  two  semesters  in  the  programme. However,  for  medical  reasons,  such  leave  may  be sanctioned  after  his/her  stay  of  one  semester.  Leave more than one semester at a time will not be granted. Semester leave will be sanctioned by the Director on the  recommendation  of  the  thesis  supervisor,  if applicable,  Convener  DUGC/DPGC  and  DoAA. Applications must be submitted well in advance of the date  of  commencement  of  the  leave  requested.  No financial assistance will be paid during the period of such extended leave.
+ A student is permitted to avail medical leave during a semester for a maximum duration of 15 days upon submission of medical certificate (hand delivered through a representative or email/hardcopy) to Office of Academic Affairs. A student who remains on authorized leave of absence due to ill health is required to submit a certificate of fitness by a registered medical practitioner prior to resuming the semester. If a student has to be away for more than 15 working days even 
 
-A student on semester leave will be required to pay the semester fees and other statutory fees/charges for the leave period such as his/her name is borne on the roll list. 
 
-***Guidelines for Ph.D. programme will be applicable after the successful completion of the Ph.D. candidacy requirements. ![ref2]***
+ due to medical reasons, he/she may have to drop a semester. 
 
-**Ph.D. Programme** 
+**9.3 Semester Leave** 
 
-The  Ph.D.  Programme  is  offered  to  students  who  have acquired a Master’s degree. Ph.D. programme is currently offered in the following Departments:  
+ Students, for bonafide reasons, can avail a maximum of two semesters leave. Except for medical reasons, such leave will not be normally sanctioned unless a student has spent two semesters in the programme. However, for medical reasons, such leave may be sanctioned after his/her stay of one semester. Leave more than one semester at a time will not be granted. Semester leave will be sanctioned by the Director on the recommendation of the thesis supervisor, if applicable, Convener DUGC/DPGC and DoAA. Applications must be submitted well in advance of the date of commencement of the leave requested. No financial assistance will be paid during the period of such extended leave. A student on semester leave will be required to pay the semester fees and other statutory fees/charges for the leave period such as his/her name is borne on the roll list. 
 
-- Biological Sciences  
-- Chemical Engineering  
-- Chemistry  
-- Economic Sciences 
-- Electrical Engineering and Computer Science  
-- Earth and Environmental Sciences  
-- Humanities and Social Sciences  
-- Mathematics  
-- Physics 
+ Guidelines for Ph.D. programme will be applicable after the successful completion of the Ph.D. candidacy requirements. 
+
+
+## Ph.D. Programme 
+
+The Ph.D. Programme is offered to students who have acquired a Master’s degree. Ph.D. programme is currently offered in the following Departments: 
+
+  Biological Sciences  Chemical Engineering  Chemistry  Economic Sciences  Electrical Engineering and Computer Science  Earth and Environmental Sciences  Humanities and Social Sciences  Mathematics  Physics 
 
 Further provision exists in the Institute to introduce new programme/disciplines, as appropriate. 
 
-10. **ADMISSION<a name="_page14_x48.00_y361.00"></a> TO Ph.D. PROGRAMME** 
+**10. ADMISSION TO Ph.D. PROGRAMME** 
 
-    Students are admitted to the Ph.D. programme, twice a year in August and in January. Admission to the Ph.D. programme is  advertised by the Office of Academic Affairs, in consultation with the Departments, between March  and  April  for  August  session,  and  between September and October for January session. 
+ Students are admitted to the Ph.D. programme, twice a year in August and in January. Admission to the Ph.D. programme is advertised by the Office of Academic Affairs, in consultation with the Departments, between March and April for August session, and between September and October for January session. Students admitted to the Ph.D. programme must have Master’s Degree in relevant discipline with a minimum of 60% marks or Cumulative Grade Point Average/Cumulative Performance Index (CGPA/CPI) 7.0 in a 10 point scale. Under special circumstances, 
 
-Students admitted to the Ph.D. programme must have Master’s Degree in relevant discipline with a minimum of  60%  marks  or  Cumulative  Grade  Point Average/Cumulative Performance Index (CGPA/CPI) 7.0 in a 10 point scale. Under special circumstances, ![ref2]
 
-exceptionally bright students with B.Tech./B.E/B.S. (4 years)  degree  are  also  considered  for  admission. Students  should  have  also  qualified  a  national  level entrance test such as: GATE/NET/DBT/JEST/ICMAR (or any other national level examination) and will be selected through written test and/or interview process.     National  level  examination is  exempt for those with B.Tech.  from  IITs  or  BS-MS  from  IISERs  with CGPA/CPI more than 8.0 on a 10 point scale. 
+exceptionally bright students with B.Tech./B.E/B.S. (4 years) degree are also considered for admission. Students should have also qualified a national level entrance test such as: GATE/NET/DBT/JEST/ICMAR (or any other national level examination) and will be selected through written test and/or interview process. National level examination is exempt for those with B.Tech. from IITs or BS-MS from IISERs with CGPA/CPI more than 8.0 on a 10 point scale. 
 
-Students who have successfully qualified national level exams  such  as  CSIR-JRF/DBT/UGC/NBHM  or equivalent  can  avail  their  fellowship  from  the respective  agencies.  Such  students  should  start  the process of activating their fellowship immediately after joining IISER Bhopal by submission of the completed and relevant forms for the granting agency through the Institute. Students must submit all relevant papers and documents  to  the  Academic  Office  within  15  days from the date of admission.  
+Students who have successfully qualified national level exams such as CSIR-JRF/DBT/UGC/NBHM or equivalent can avail their fellowship from the respective agencies. Such students should start the process of activating their fellowship immediately after joining IISER Bhopal by submission of the completed and relevant forms for the granting agency through the Institute. Students must submit all relevant papers and documents to the Academic Office within 15 days from the date of admission. 
 
-Students  admitted  through  GATE/JEST/JGEEBILS etc.  i.e.,  who  do  not  have  their  own  source  of fellowship are eligible to receive assistantship through Institute. 
+Students admitted through GATE/JEST/JGEEBILS etc. i.e., who do not have their own source of fellowship are eligible to receive assistantship through Institute. 
 
-Every student needs to fulfill all academic criteria set by IISER Bhopal at each stage of the Ph.D . Program for continuation of the fellowship. 
+Every student needs to fulfill all academic criteria set by IISER Bhopal at each stage of the Ph.D. Program for continuation of the fellowship. 
 
 **Admission Procedure** 
 
-Prospective  students  must  apply  for  admission following  advertisements  along  with  the  required documents, to the DoAA.  ![ref2]
+Prospective students must apply for admission following advertisements along with the required documents, to the DoAA. 
 
-Applicants will be selected for admission to the Ph.D. programme by the concerned Departmental Selection Committee,  comprising  of  faculty  members  of  the Department,  duly  constituted  by  the  Head  of  the Department.  The  Chairperson,  Senate/DoAA  will approve the admission.  
 
-Selection  of  applicants  for  admission  to  the  Ph.D. programme will be based on a written test and/or oral interview  of  the  short-listed  candidates.  SC/ST candidates  will  be  interviewed  first  and  will  not  be compared with general category candidates. 
+Applicants will be selected for admission to the Ph.D. programme by the concerned Departmental Selection Committee, comprising of faculty members of the Department, duly constituted by the Head of the Department. The Chairperson, Senate/DoAA will approve the admission. 
 
-Selected  candidates,  who  have  fulfilled  all  the requirements for admission, but cannot produce a proof of having passed and securing the minimum specified qualifying marks, or proof of clearing the qualifying examination,  may  be  considered  for  provisional admission.  However,  such  students  will  have  to produce the required documents  by the last date for document  submission  in  the  academic  calendar (generally  8  weeks  from  the  date  of  registration), failing  which  their  provisional  admission  will  be cancelled. The Senate may also cancel the admission at any  later  stage  if  it  is  found  that  the  student  had supplied  false  information  or  suppressed  relevant information  while  seeking  admission.  Further,  the Institute has the right to cancel the admission of any student and ask him/her to leave the Institute at any stage  of  his/her  career  on  grounds  of  unsatisfactory academic performance, irregular attendance in classes, or indiscipline.  ![ref2]
+Selection of applicants for admission to the Ph.D. programme will be based on a written test and/or oral interview of the short-listed candidates. SC/ST candidates will be interviewed first and will not be compared with general category candidates. 
 
-On approval, the Office of Academic Affairs will issue admission  offer  letters  to  the  selected  students.  The selected students will be required to accept the offer of admission by depositing the prescribed fee before the specified date.  
+Selected candidates, who have fulfilled all the requirements for admission, but cannot produce a proof of having passed and securing the minimum specified qualifying marks, or proof of clearing the qualifying examination, may be considered for provisional admission. However, such students will have to produce the required documents by the last date for document submission in the academic calendar (generally 8 weeks from the date of registration), failing which their provisional admission will be cancelled. The Senate may also cancel the admission at any later stage if it is found that the student had supplied false information or suppressed relevant information while seeking admission. Further, the Institute has the right to cancel the admission of any student and ask him/her to leave the Institute at any stage of his/her career on grounds of unsatisfactory academic performance, irregular attendance in classes, or indiscipline. 
 
-In case a student does not accept the offer by paying the  prescribed  fee  by  the  specified  date,  his/her admission stands cancelled and admission offer may be made  to  students  in  the  waitlist,  if  any,  in  order  of merit.  
 
-The offer of admission may also stand withdrawn if a student who has accepted the offer fails to register by the date of late registration. 
+ On approval, the Office of Academic Affairs will issue admission offer letters to the selected students. The selected students will be required to accept the offer of admission by depositing the prescribed fee before the specified date. In case a student does not accept the offer by paying the prescribed fee by the specified date, his/her admission stands cancelled and admission offer may be made to students in the waitlist, if any, in order of merit. The offer of admission may also stand withdrawn if a student who has accepted the offer fails to register by the date of late registration. 
 
-11. **CURRICULUM<a name="_page17_x48.00_y297.00"></a> FOR Ph.D. PROGRAMME** 
+**11. CURRICULUM FOR Ph.D. PROGRAMME** 
 
-    Ph.D.  programme  consists  of  courses  and  research work. The aim of the course work is to strengthen the fundamental  understanding  in  the  subject  and  to prepare them for conducting research work.  
+ Ph.D. programme consists of courses and research work. The aim of the course work is to strengthen the fundamental understanding in the subject and to prepare them for conducting research work. 
 
-1. **Academic<a name="_page17_x48.00_y388.00"></a> Load**  
+**11.1 Academic Load** 
 
-   A semester load is defined as equivalent to 16 credits. It could be either course work, or research work or a combination of course work and research work. One research workload carries 4 credits. Most courses carry 4 credits, while a few courses may carry less or more credits. Thus, a student who has registered for a full semester  load  solely  by  course  work  is  expected  to attend 4 such four-credit courses. A student registered for  a  full  semester  load  solely  by  research  work  is expected to register for 4 units of research work. Under ![ref2] exceptional  circumstances,  the  Senate  may  permit  a student  to  register  for  a  maximum  of  20  credits  or minimum of 12 credits. 
+ A semester load is defined as equivalent to 16 credits. It could be either course work, or research work or a combination of course work and research work. One research workload carries 4 credits. Most courses carry 4 credits, while a few courses may carry less or more credits. Thus, a student who has registered for a full semester load solely by course work is expected to attend 4 such four-credit courses. A student registered for a full semester load solely by research work is expected to register for 4 units of research work. Under 
 
-After fulfilment of a total minimum credit requirement of  96  credits,  a  Ph.D.  student  may  be  allowed  to register for a minimum of 4 credits per semester until the completion of the program (subject to a maximum of 7 years from the date of admission into Ph.D.) to be considered as a full time student. 
 
-2. **Inadequate<a name="_page18_x48.00_y206.00"></a> Academic Performance** 
+ exceptional circumstances, the Senate may permit a student to register for a maximum of 20 credits or minimum of 12 credits. After fulfilment of a total minimum credit requirement of 96 credits, a Ph.D. student may be allowed to register for a minimum of 4 credits per semester until the completion of the program (subject to a maximum of 7 years from the date of admission into Ph.D.) to be considered as a full time student. 
 
-   The academic performance of each student is reviewed at the end of each semester based on the credits and SPI/CPI earned by him/her at the end of that semester.  
+**11.2 Inadequate Academic Performance** 
 
-**Warning**  
+ The academic performance of each student is reviewed at the end of each semester based on the credits and SPI/CPI earned by him/her at the end of that semester. Warning A warning will be issued to a Ph.D. student if he/she earns 2 or more ‘X’ grades in a semester. Termination A student may be terminated from the Ph.D. programme under the following circumstances: 
 
-A warning will be issued to a Ph.D. student if he/she earns 2 or more ‘X’ grades in a semester. 
+1. CPI is below 7.0. 
 
-**Termination** 
+2. Has earned two ‘F’ grades in the same or different     courses. 
 
-A  student  may  be  terminated  from  the  Ph.D. programme under the following circumstances:  
+3. Has earned 8 ‘X’ grades in research work. 
 
-1. CPI is below 7.0.  
-1. Has earned two ‘F’ grades in the same or different courses.  
-1. Has earned 8 ‘X’ grades in research work.  
-1. Has earned 6 or more ‘X’ grades in research work in two consecutive semesters. 
-1. Is unable to qualify the comprehensive exam in two attempts or within four registered semesters. ![ref2]
+4. Has earned 6 or more ‘X’ grades in research work     in two consecutive semesters. 
 
-15 **|** P a g e** 
+5. Is unable to qualify the comprehensive exam in two     attempts or within four registered semesters. 
 
-<a name="_page19_x48.00_y51.00"></a>**12. MANDATORY  REQUIREMENTS  FOR  Ph.D. PROGRAMME**
 
-1. **Minimum<a name="_page19_x48.00_y89.00"></a> Residence and Maximum Duration** 
+**12. MANDATORY REQUIREMENTS FOR Ph.D.**     **PROGRAMME** 
 
-   Minimum  residency  requirement  for  submission  of thesis is 3 years (out of which 1.5 years is for research work).  The  registration  of  a  student  will  be automatically cancelled if he/she does not submit the thesis  within  7  years  of  joining  the  program.  Under exceptional circumstances, the period of residency can be  extended  beyond  7  years  with  the  approval  of Chairperson,  Senate  on  the  recommendation  of Convener, DPGC and DoAA. 
+**12.1 Minimum Residence and Maximum Duration** 
 
-2. **Academic<a name="_page19_x48.00_y259.00"></a> Requirements** 
+ Minimum residency requirement for submission of thesis is 3 years (out of which 1.5 years is for research work). The registration of a student will be automatically cancelled if he/she does not submit the thesis within 7 years of joining the program. Under exceptional circumstances, the period of residency can be extended beyond 7 years with the approval of Chairperson, Senate on the recommendation of Convener, DPGC and DoAA. 
 
-   The Ph.D. programme comprises of course work and research  work.  The  aim  of  the  course  work  is  to strengthen  the  fundamental  understanding  in  the subject  and to prepare them  for  conducting  research work.  
+**12.2 Academic Requirements** 
 
-The minimum course credit a student has to register for the Ph.D. curricula is 16 (equivalent to 4 courses of 4 credits each). Additional course credit may be imposed by department to suit their requirements. Department wise minimum course credits are outlined below: ![ref2]
+ The Ph.D. programme comprises of course work and research work. The aim of the course work is to strengthen the fundamental understanding in the subject and to prepare them for conducting research work. The minimum course credit a student has to register for the Ph.D. curricula is 16 (equivalent to 4 courses of 4 credits each). Additional course credit may be imposed by department to suit their requirements. Department wise minimum course credits are outlined below: 
 
+ Name of the Department Minimum Course Credits Biological Sciences 16 Chemistry 16 Chemical Engineering 16/24# Earth and Environmental Sciences 16 * 
 
 
-|**Name of the Department** |**Minimum Course Credits** |
-| - | :- |
-|Biological Sciences |16 |
-|Chemistry |16 |
-|Chemical Engineering |16/24# |
-|Earth and Environmental Sciences |16\* |
+ Name of the Department Minimum Course Credits Electrical Engineering and Computer Science 
 
-|**Name of the Department** |**Minimum Course Credits** |
-| - | :- |
-|Electrical Engineering and Computer Science |16/32$|
-|Mathematics |24 |
-|Physics |24 |
-|Humanities and Social Sciences |16 |
-|Economic Sciences |24 |
+ 16/32$ 
 
-*#  The minimum course credits for students admitted with M.Tech./ M.E./M.S.  in  Chemical  Engineering  is  16.  However,  students admitted  with  M.Sc./M.S.  degree  in  Natural  Sciences  having some  experience  in  allied  areas  of  Chemical  Engineering  or B.E./B.Tech.  in  Chemical  Engineering  have  to  complete  a minimum of 24 course credits.* 
+ Mathematics 24 Physics 24 Humanities and Social Sciences 16 Economic Sciences 24 
 
-*\* The  minimum  course  credits  for  students  admitted  in department  of  Earth  and  Environmental  Sciences  prior  to AY: 2018-19-I semester is 24.*
+_# The minimum course credits for students admitted with M.Tech./ M.E./M.S. in Chemical Engineering is 16. However, students admitted with M.Sc./M.S. degree in Natural Sciences having some experience in allied areas of Chemical Engineering or B.E./B.Tech. in Chemical Engineering have to complete a minimum of 24 course credits. *_ 
 
-*$  The minimum course credits for students admitted with* *M.Tech./*
+_$ The minimum course credits for students admitted with M.Tech./ M.E./M.S./other relevant degrees (4+2 or higher)/IISERB BSMS in EC/CS/EE/IT and other relevant discipline is 16. However, students admitted with M.Sc./M.S. in Physics/ Mathematics or B.Tech./B.E./B.S. in EC/CS/EE have to complete 24 to 32 course credits as suggested by the DPGC committee._ Every Department should permit the student to register for courses outside the Department, if recommended by the thesis supervisor, for a maximum of 8 credits. Out of the minimum prescribed course requirements for a Ph.D. student, the student cannot register for more than 50% credits of the prescribed courses with the same instructor. After completion of the minimum prescribed courses, the above rule will not be applicable. 
 
-*M.E./M.S./other relevant degrees (4+2 or higher)/IISERB BS- MS  in  EC/CS/EE/IT  and  other  relevant  discipline  is  16. However,  students*  *admitted  with  M.Sc./M.S.  in  Physics/ Mathematics  or*  *B.Tech./B.E./B.S.  in  EC/CS/EE  have  to complete 24 to 32 course credits as suggested by the DPGC committee.*
+ The minimum course credits for students admitted in department of Earth and Environmental Sciences prior to AY: 2018-19-I semester is 24. 
 
-Every Department should permit the student to register for courses outside the Department, if recommended by the thesis supervisor, for a maximum of 8 credits. Out  of  the  minimum  prescribed  course  requirements for  a  Ph.D.  student,  the  student  cannot  register  for more than 50% credits of the prescribed courses with the same instructor. After completion of the minimum prescribed  courses,  the  above  rule  will  not  be applicable. ![ref2]
 
-18 **|** P a g e
+ For students who have completed their masters from reputed institutes such as IISERs, IITs etc., the Convener DPGC of the concerned Department can recommend an exemption of maximum 8 credits from this requirement, based on advanced (500/600 level) courses taken during BS-MS (Dual Degree)/Master’s programme. Such an exemption will be done only upon the approval of DoAA. Ph.D. students will also have to register for a minimum of 40 research credits. Ph.D. students should register for a total minimum of 96 credits (coursework and research work). Besides the above-mentioned minimum requirements, a Department may prescribe some additional credits of courses/thesis work approved by the Senate. The Senate may also allow Ph.D. students to credit courses in other academic Institutions. Students conducting a part of their research work at other academic institutions may seek residence and research credits for the time spent outside. However, such work must be carried out under the guidance of IISER Bhopal faculty and his/her thesis supervisor will evaluate the progress of this work. Prior to undertaking work outside IISER Bhopal, the student must obtain consent from the DPGC and approval from DoAA. 
 
-For students who have completed their masters from reputed  institutes  such  as  IISERs,  IITs  etc.,  the Convener  DPGC  of  the  concerned  Department  can recommend an exemption of maximum 8 credits from this requirement, based  on advanced  (500/600  level) courses taken during BS-MS (Dual Degree)/Master’s programme.  Such  an  exemption  will  be  done  only upon the approval of DoAA. 
+**12.3 Provisions for Relaxation** 
 
-Ph.D. students will also have to register for a minimum of 40 research credits. Ph.D.  students should register for  a  total  minimum  of  96 credits  (coursework  and research work). 
+ Senate may grant relaxation in the prescribed minimum/maximum residence and/or academic requirements to a student in view of the work done by him/her in the Institute or elsewhere, to the extent 
 
-Besides the above-mentioned minimum requirements, a Department may prescribe some additional credits of courses/thesis work approved by the Senate.  
 
-The  Senate  may  also  allow  Ph.D.  students  to  credit courses  in  other  academic  Institutions.  Students conducting  a  part  of  their  research  work  at  other academic institutions may seek residence and research credits for the time spent outside. However, such work must  be  carried  out  under  the  guidance  of  IISER Bhopal  faculty  and  his/her  thesis  supervisor  will evaluate the progress of this work. Prior to undertaking work outside IISER Bhopal, the student must obtain consent from the DPGC and approval from DoAA. 
+ considered appropriate according to the merit of the case. 
 
-3. **Provisions<a name="_page21_x48.00_y472.00"></a> for Relaxation** 
+**12.4 Assignment of Thesis Supervisor** 
 
-   Senate  may  grant  relaxation  in  the  prescribed minimum/maximum  residence  and/or  academic requirements to a student in view of the work done by him/her  in  the  Institute  or  elsewhere,  to  the  extent ![ref2] considered appropriate  according to  the merit  of the case. 
+ A Ph.D. research supervisor will be assigned to every student at an appropriate time in the programme, as decided by individual Departments. The following guidelines will be followed in assigning research supervisor(s): 
 
-4. **Assignment<a name="_page22_x48.00_y89.00"></a> of Thesis Supervisor** 
+1. A student shall not normally have more than two     supervisors at any given time. The primary     supervisor must be from the parent department of     the student. 
 
-   A Ph.D. research supervisor will be assigned to every student at  an appropriate time in  the programme, as decided  by  individual  Departments.  The  following guidelines  will  be  followed  in  assigning  research supervisor(s):  
+2. Thesis supervisor of a student will normally be     appointed from amongst the faculty members at     IISER Bhopal in accordance with the guidelines of     each Department. In general, supervisor(s) can be     chosen any time before completing the course     work. Criteria used for assigning thesis     supervisor(s) include students’ preference for a     research area, his/her performance in the interview,     and performance in course work at IISER Bhopal. 
 
-1. A student shall not normally have more than two supervisors  at  any  given  time.  The  primary supervisor must be from the parent department of the student. 
-1. Thesis  supervisor  of  a  student  will  normally  be appointed  from  amongst  the  faculty  members  at IISER Bhopal in accordance with the guidelines of each Department. In general, supervisor(s) can be chosen  any  time  before  completing  the  course work.  Criteria  used  for  assigning  thesis supervisor(s)  include  students’  preference  for  a research area, his/her performance in the interview, and performance in course work at IISER Bhopal.  
-1. Under special circumstances the Senate may allow a scientist/faculty member from another academic Institution to be a co-supervisor. 
-1. The  assignment  or  change  of  supervisor(s)  of  a student  must  be  intimated  to  the  Office  of Academic  Affairs.  Addition  or  change  of supervisor  is  not  allowed  once  the  thesis  is submitted. In case a supervisor of a Ph.D. student is ![ref2] change/added,  the  student  cannot  submit  his/her thesis until after six months of the change. 
-5. If  the  thesis  supervisor  is  a  faculty  member  on probation (at assistant professor or new joinee at associate professor and professor level), the DPGC will appoint a co-supervisor, who is a confirmed faculty member. Once the services of the primary supervisor are confirmed by the Institute, the co- supervisor will be relieved. 
-5. **Assignment<a name="_page23_x48.00_y206.00"></a> of Alternate Thesis Supervisor**  
-
-   For  Ph.D.  students  who  are  assigned  to  only  one supervisor  the  criteria  for  assigning  alternate supervisors  under  specific  circumstances  are  as follows: 
-
-1. If the supervisor of the Ph.D. student is away on long  leave,  the  DPGC  will  appoint  a  new supervisor or a co-supervisor, in consultation with the  supervisor  of  the  Ph.D.  student.  In  case,  the supervisor of a Ph.D. student goes on short leave, the  DPGC  will  appoint  an  administrative supervisor to fulfil various formalities.  
-1. In the event that a thesis supervisor proposes to go on leave when a Ph.D. student has completed all research work and is only writing his/her thesis, the DPGC may appoint an  administrative supervisor. This supervisor will take care of all formalities like submission of thesis, suggesting a list of examiners and conducting the oral examinations.  
-1. If the thesis supervisor of a Ph.D. student retires, resigns, or otherwise ceases to be a faculty member ![ref2] of  the  Institute,  the  DPGC  will  appoint  a  new supervisor or co-supervisor. 
-6. **Comprehensive<a name="_page24_x48.00_y89.00"></a> Examination** 
-1. All  students  must  pass  a  comprehensive examination  designed  to  test  the  overall comprehension  of  the  student  in  the  various subjects.  A  student  can  appear  in  the comprehensive examination only after he/she has completed  the  course  requirements  and  satisfied the minimum specified CPI requirement. The total number of credits to be obtained in order to appear for  the  comprehensive  examination  is  32  (The reminder  of  16  credits  coming  from  research credits). Additional course credit may be imposed by department to suit their requirements. 
-1. Students admitted to the Ph.D. programme should complete their course requirements along with the comprehensive  examination  within  a  period  of four  registered  semesters  from  the  date  of admission to the programme.  
-1. The comprehensive examination will be either oral or written, or a combination of both as detailed in the  guidelines  of  individual  Departments,  duly approved by the Senate.  
-1. The  Comprehensive  Examination  Board  will consist  of  at  least  three  but  not  more  than  five faculty members of the student's Department and one faculty member from outside the Department. Constitution of the board will be proposed by the thesis supervisor (DPGC, if supervisor is not yet assigned) and will be forwarded by the DPGC for ![ref2] the approval of the DoAA. The thesis supervisor of  the  student,  if  already  assigned,  will  be  the convener of the board else convener, DPGC will be the convener of the board. 
-
-   5. Although  no  grades  are  assigned  for  the comprehensive examination, students are required to pass the same. A student will be considered to have passed the comprehensive examination if all except at the most one member of the board are satisfied  with  student's  performance  in  the examination.  The  report  of  the  comprehensive examination must be sent to the DoAA within 8 weeks of the date of approval of the board.  
-   5. When a student has not passed the comprehensive examination  in  his/her  first  attempt,  a  second comprehensive examination will be conducted by the same board that was constituted earlier unless otherwise approved by the Chairperson, Senate on the recommendation of the DPGC and the DoAA. A  student  will  not  be  allowed  to  appear  in  the comprehensive  examination  more  than  twice.  A student not qualifying the comprehensive exam in two attempts or within four registered semesters will be terminated from the programme.  
-7. **Candidacy<a name="_page25_x48.00_y450.00"></a> for the Ph.D. Degree** 
-
-   A student enrolled in the Ph.D. programme is formally admitted to the candidacy for the Ph.D. degree after he/she has completed the course requirements for the degree with at least the minimum required CPI, and has passed the comprehensive examination. Only such ![ref2] students  who  are  admitted  to  the  candidacy  will  be allowed to submit Ph.D. thesis. 
+3. Under special circumstances the Senate may allow     a scientist/faculty member from another academic     Institution to be a co-supervisor. 
 
-8. **Graduate Seminars** 
-1) First Graduate Seminar: The candidate must give graduate  seminar  within  one  year  of  the comprehensive  examination.  This  seminar  must encompass  the  formulation  of  the  research problem  and  survey  of  existing  literature.  If  the student  fails  to  clear  graduate  seminar  in  one attempt  he/she  must  clear  the  same  during subsequent attempts. 
-1) Second Graduate Seminar: The student must give second  graduate  seminar  by  the  end  of  eighth semester  (for  Ph.D.)  and  eleventh  semester  (for Integrated Ph.D.) of study. This seminar topic may be related to the research work of the student.  
+4. The assignment or change of supervisor(s) of a     student must be intimated to the Office of     Academic Affairs. Addition or change of     supervisor is not allowed once the thesis is     submitted. In case a supervisor of a Ph.D. student is 
 
-Both the seminars will be assessed by  a Department Level Committee and will be judged as satisfactory or unsatisfactory. In the latter case, a suitable course of action will be suggested by the Committee. 
 
-The reports of the graduate seminars must be submitted to  the  DoAA  through  the  thesis  supervisor  and Convener DPGC.   
+ change/added, the student cannot submit his/her thesis until after six months of the change. 
 
-9. **Open Seminar** 
+5. If the thesis supervisor is a faculty member on     probation (at assistant professor or new joinee at     associate professor and professor level), the DPGC     will appoint a co-supervisor, who is a confirmed     faculty member. Once the services of the primary     supervisor are confirmed by the Institute, the co-     supervisor will be relieved. 
 
-   Prior to submitting his/her Ph.D. thesis, a student must present a seminar on his/her thesis work to an audience consisting  of  faculty  members  and  students  of  the Institute.  A  notice  of  the  open  seminar  must  be displayed  7  days  in  advance.  A  copy  of  the  notice should be submitted to the Office of Academic Affairs. ![ref2] General  Public  is  also  permitted  to  attend  the  Open Seminar.  The  student  may  incorporate  comments/ criticism obtained from the audience in his/her thesis. 
+**12.5 Assignment of Alternate Thesis Supervisor** 
 
-The  thesis  can  be  submitted  only  after  satisfactorily presenting  the  Open  Seminar.  A  satisfactory completion report has  to be submitted to  the  DoAA through the thesis supervisor and Convener DPGC.  
+ For Ph.D. students who are assigned to only one supervisor the criteria for assigning alternate supervisors under specific circumstances are as follows: 
 
-The maximum time duration for the submission of the thesis after the delivery of the open seminar will be six months.  In  exceptional  circumstances,  the  students may  seek  an  extension  of  up  to  three  months  with proper  justification.  However,  if  the  thesis  is  not submitted  within  the  desired  period  including  the extension,  the  open  seminar  already  delivered  will stand cancelled and the student will be required to give a  fresh  open  seminar  before  he/she  submits  his/her thesis. 
+1. If the supervisor of the Ph.D. student is away on     long leave, the DPGC will appoint a new     supervisor or a co-supervisor, in consultation with     the supervisor of the Ph.D. student. In case, the     supervisor of a Ph.D. student goes on short leave,     the DPGC will appoint an administrative     supervisor to fulfil various formalities. 
 
-10. **Ph.D. Thesis Evaluation Board** 
+2. In the event that a thesis supervisor proposes to go     on leave when a Ph.D. student has completed all     research work and is only writing his/her thesis, the     DPGC may appoint an administrative supervisor.     This supervisor will take care of all formalities like     submission of thesis, suggesting a list of examiners     and conducting the oral examinations. 
 
-    The thesis will be evaluated by a board. The board, approved by the Chairperson, Senate, shall consist of two  members  in  addition  to  the  thesis  supervisor(s). Members of the board should be very well recognized in  the  field  and  should  be  from  other  Institutes/ Universities/Research Organizations.  
+3. If the thesis supervisor of a Ph.D. student retires,     resigns, or otherwise ceases to be a faculty member 
 
-The  procedure  for  constitution  of  the  ‘Thesis Evaluation Board’ is as follows: 
 
-1. The list of thesis examiners should be proposed at most 4 weeks before the submission of the Ph.D. thesis. ![ref2]
-2. The  research  supervisor  of  the  student  should propose  a  list  of  10  examiners  (including himself/herself,  with  contact  details  including email, fax, telephone number and complete postal address) to the Office of Academic Affairs. Among the 10 listed examiners for Ph.D. thesis evaluation, not more than five may be from outside India. A hardcopy and softcopy of the synopsis should also be submitted along with the list of examiners.  
+ of the Institute, the DPGC will appoint a new supervisor or co-supervisor. 
 
-To  provide  larger  visibility  to  the  research  work carried out in IISER Bhopal in international front it is advised to put at least three examiners for Ph.D. Thesis evaluation from outside India. 
+**12.6 Comprehensive Examination** 
 
-3. The Chairperson, Senate, in consultation with the DoAA will select the names of the thesis examiners from  the  list  provided  by  the  supervisor  to constitute  the  thesis  evaluation  board.  The Chairperson, Senate may add examiners and/or ask for an additional list of examiners, if required. In case  the  Chairperson,  Senate  is  the  thesis supervisor, then the thesis evaluation board will be constituted by the DoAA. In case the DoAA is the thesis supervisor, then the Chairperson, Senate will constitute  the  thesis  evaluation  board,  in consultation with the Dean, Faculty Affairs. 
-3. DoAA  will  send  a  copy  of  the  synopsis  to  each member of the thesis evaluation board for obtaining their  consent  to  act  as  thesis  examiners.  If  no consent is obtained within two weeks, DoAA will communicate with other examiners in the list (as approved  by  the  Chairperson,  Senate),  and  this exercise  will  continue  until  adequate  number  of ![ref2] examiners  have  consented.  In rare circumstances, the  DoAA  may  request  another  list  of  suggested examiners from the thesis supervisor, in case the original list is exhausted, and adequate number of examiners is not found. 
-5. After  consent  is  obtained  from  the  examiners,  a copy  of  the  thesis  (soft  bound hardcopy/softcopy depending upon the preference of the examiner) is sent to each examiner. Such a copy of the thesis must  be  submitted  to  the  Office  of  Academic Affairs within 4 weeks of the submission of the list of examiners. The preference of the thesis examiner for a soft-bound copy/soft copy of the thesis will be communicated  to  the  supervisor  as  soon  as  it  is known. 
-5. In case the DoAA is the supervisor of the Ph.D. student, the above exercise is carried out by Dean, Faculty Affairs. 
-5. In all cases, the names of the thesis examiners will be kept confidential till the oral examination. Upon the completion of the evaluation of the Ph.D. thesis, the Office of Academic Affairs will communicate the names of the faculty members of the Institute (if any), as well as, the names of the thesis examiners from outside the Institute who will be a part of the oral board, approved by the Chairperson, Senate, to the thesis supervisor. 
-11. **Ph.D.<a name="_page29_x48.00_y499.00"></a> Thesis Evaluation**  
-1. Upon  receiving  all  reports  from  the  thesis evaluation board, the DoAA will place the thesis in ![ref2] one of the following categories in accordance with the nature of recommendations: 
-1. **Category 1:** The examiner has not pointed out any errors and has no corrections/suggestions. The examiner has recommended that the thesis be accepted as is.  
-1. **Category 2:** The examiner has pointed out only grammatical  errors  like  punctuation,  spelling mistakes  or  language  problems.  Suggested changes must be incorporated in the thesis to the satisfaction of the oral board.  
-1. **Category  3:**  The  examiner  points  out  minor technical mistakes/raises queries/suggests some modifications  but  does  not  subject  the acceptance  of  the  thesis  to  the  answering  of queries/incorporation  of  suggestions.  The student must respond to the queries raised by the examiner and submit the revised thesis to the Office of Academic Affairs through his/her thesis  supervisor.  Suggested  changes  must  be incorporated in the thesis to the satisfaction of the oral board. 
-1. **Category  4:**  The  thesis  examiners  reject  the thesis in its present form and point out major technical  errors,  clearly  mentioning  that  the thesis  cannot  be  accepted  unless  he/she  is satisfied with the changes made by the student. In  this  case,  the  thesis  supervisor(s)  will communicate  the  changes  carried  out  in  the thesis, if any, in response to the queries raised by  the  examiner(s)  with  a  covering  note  and ![ref2] send it to the examiner through the DoAA with a  request  to  respond  within  six  weeks.  If  no response  is  received  within  the  stipulated period,  a  reminder  will  be  sent  and  the  wait period will be extended by another six weeks. If no response is received even after twelve weeks further action will be initiated. 
-5. **Category  5:**  The  thesis  examiners  find  the thesis  unsuitable  and  reject  it.  The  thesis examiners  explicitly  mention  that  this  thesis cannot  be  considered  even  with  major revisions/resubmissions. If one of the examiners rejects the thesis, the matter will be referred to Chairperson, Senate for deciding further course of action. If two or more examiners reject the thesis,  the  thesis  will  be  rejected.  Students receiving  such  a  recommendation  will  be terminated from their academic programme. 
-2. Copies of the report along with the category of the thesis (without the identity of the examiner) will be communicated to the thesis supervisor(s). 
-2. On completion of the process detailed above, the DoAA  will  intimate  the  concurrence  of  the Chairperson, Senate, if given, to the supervisor, to initiate  the  constitution  of  the  oral  board.  This concurrence of Chairperson, Senate will be given if all  the  examiners  recommend  acceptance  of  the thesis.  
-2. In case the DoAA is the supervisor of the student concerned, the above processing will be done by Dean, Faculty Affairs. ![ref2]
+1. All students must pass a comprehensive     examination designed to test the overall     comprehension of the student in the various     subjects. A student can appear in the     comprehensive examination only after he/she has     completed the course requirements and satisfied     the minimum specified CPI requirement. The total     number of credits to be obtained in order to appear     for the comprehensive examination is 32 (The     reminder of 16 credits coming from research     credits). Additional course credit may be imposed     by department to suit their requirements. 
 
-If plagiarism is detected at any stage during the Ph.D. programme  or  even  after  award  of  the  degree, disciplinary  action  including  termination  from  the programme  or  withdrawal  of  the  degree,  as appropriate, will be initiated by the Institute.  
+2. Students admitted to the Ph.D. programme should     complete their course requirements along with the     comprehensive examination within a period of     four registered semesters from the date of     admission to the programme. 
 
-12. **Submission<a name="_page32_x48.00_y136.00"></a> of Evaluated Thesis** 
+3. The comprehensive examination will be either oral     or written, or a combination of both as detailed in     the guidelines of individual Departments, duly     approved by the Senate. 
 
-    Hard bound copies of the Ph.D. thesis can be submitted only after the corrections, if any required by the thesis evaluation  board  have  been  incorporated.  The  thesis supervisor  should  certify  the  incorporation  of  all comments.  Copies  of  the  Ph.D.  thesis  (prepared according to the duly approved format), one for each examiner  of  the  oral  board  and  additional  copies  as required by Department should be prepared. One copy of the duly signed hard copy of the thesis should be deposited to the Office of the Academic Affairs. 
+4. The Comprehensive Examination Board will     consist of at least three but not more than five     faculty members of the student's Department and     one faculty member from outside the Department.     Constitution of the board will be proposed by the     thesis supervisor (DPGC, if supervisor is not yet     assigned) and will be forwarded by the DPGC for 
 
-13. **Ph.D.<a name="_page32_x48.00_y323.00"></a> Oral Board** 
-1. The ‘Oral Board’ shall consist of four members in addition to the thesis supervisor(s). Of the four, one shall be from the external members of the thesis evaluation  board  to  be  nominated  by  the Chairperson,  Senate.  Other  three  members  of  the oral  board  shall  be  from  among  the  faculty members of the IISER Bhopal (including those, if any, on the thesis evaluation board). Of the three members from IISER Bhopal at least one shall be from  a  Department  other  than  the  student’s Department. 
-1. Of the four, three shall be from among the faculty members of the Institute (including those, if any, on the thesis evaluation board) and one shall be from ![ref2] among the members of the thesis evaluation board (to be nominated by the Chairperson, Senate from the  thesis  evaluation  board)  from  outside  the Institute. Of the three members from IISER Bhopal at least one shall be from a Department other than the student’s Department. The Chairperson, Senate will  nominate  one  member  from  the  thesis evaluation board to the oral board. 
-3. The thesis supervisor(s) will propose the oral board in  the  prescribed  format  for  the  approval  of  the Chairperson, Senate.  
-3. The  duly  approved  oral  board  will  be communicated  to  the  thesis  supervisor  by  the Office of Academic Affairs. 
-3. Thereafter, the thesis supervisor will be responsible for making all necessary  arrangements (including travel,  accommodation  for  the  external  examiner, scheduling,  announcing  the  oral  exam  and conducting  the  same)  duly  completing  all formalities and following approved procedures. 
-14. **Ph.D.<a name="_page33_x48.00_y389.00"></a> Oral Examination** 
-1. The  Ph.D.  oral  examination  will  be  an  open examination. The supervisor will be the convener of the oral board and will fix the date of the oral examination and intimate the date to the Office of Academic Affairs. 
-1. If a member of the oral board communicates his/her inability  to  be  present  in  advance  or  fails  to  be present  on  the  specified  date  and  time,  the Chairperson,  Senate  may  appoint  a  substitute  in ![ref2] consultation with the thesis supervisor(s), Convener DPGC and DoAA. 
-3. Each member of the oral board will be given a copy of the thesis/revised thesis, along with the reports of the thesis evaluation committee at least one week before the date of the oral examination. 
-3. The oral board shall 
-1) examine the thesis reports, 
-1) examine if necessary modifications suggested by  the  thesis  examiners  have  been incorporated, 
-1) examine the candidate on questions raised by the thesis evaluation board, 
-1) authenticate the work as the student's own, 
-1) judge if the presentation of the work by the student  and  the  answers  to  the  questions asked have been satisfactory, and 
-1) provide  a  report  of  the  candidate’s performance, which will be communicated by the  supervisor(s)  to  the  DoAA  through  the Convener,  DPGC  and  Head  of  the Department. 
-5. If  all,  except  at  most  one  member,  declare  the student as passed, the matter will be referred to the Chairperson, Senate for a decision on whether or not the student be declared ‘passed’. 
-5. If a candidate has not passed, the oral board will specify whether 
-1) the candidate may be given another chance to appear in the oral examination and will specify ![ref2] the approximate date for re-examination. The original  oral  board  will  conduct  the  re- examination  unless  a  different  oral  board  is approved by the Chairperson, Senate. In the re- examination,  the  board  will  declare  whether the  student  has  passed  or  failed  as  per  the criteria  laid  down  above  but  will  not recommend holding a third oral examination. 
-2) the candidate is declared to have failed. 
-7. On receipt of the report that the student has passed the oral examination, the DoAA will initiate further proceedings for the award of the Ph.D. degree. 
-7. If  the  candidate  has  failed,  the  matter  will  be brought to the attention of the Chairperson, Senate for further action. 
-13. **GRADUATION<a name="_page35_x48.00_y335.00"></a>  REQUIREMENTS  OF  Ph.D. PROGRAMME** 
 
-    A  student  shall  be  deemed  to  have  completed  the graduation requirements, if the student 
+ the approval of the DoAA. The thesis supervisor of the student, if already assigned, will be the convener of the board else convener, DPGC will be the convener of the board. 
 
-- Has  completed  a  minimum  residence  of  3  years (and no more than 7 years) from admission to the programme.  
-- Has no F grade in all courses registered for. 
-- Has qualified the comprehensive exam, admitted to Ph.D.  candidacy,  presented  Graduate,  and  Open Seminar,  submitted  Ph.D.  thesis  and  passed  the thesis Oral Examination, ![ref2]
-- Has  completed  all  specified  credit  requirements (course and research work). 
-- Has earned a minimum CPI of 7.0 on a 10.0 point scale in addition to the credit requirements. 
-- Has satisfied all other requirements specified by the concerned Department, if any, 
-- Has satisfied all the requirements specified by the Senate and the Ordinances. 
-- Has paid all the dues to the Institute, as applicable. 
-- Has no case of indiscipline pending against him/ her. 
-- Has served as tutor for at least two semesters any time before submission of the thesis.  
+5. Although no grades are assigned for the     comprehensive examination, students are required     to pass the same. A student will be considered to     have passed the comprehensive examination if all     except at the most one member of the board are     satisfied with student's performance in the     examination. The report of the comprehensive     examination must be sent to the DoAA within 8     weeks of the date of approval of the board. 
 
-Upon completion of the graduation requirements and fulfilling  the  requirement  for  participation  in  the Convocation,  the  student  will  be  awarded  his/her degree during the convocation. 
+6. When a student has not passed the comprehensive     examination in his/her first attempt, a second     comprehensive examination will be conducted by     the same board that was constituted earlier unless     otherwise approved by the Chairperson, Senate on     the recommendation of the DPGC and the DoAA.     A student will not be allowed to appear in the     comprehensive examination more than twice. A     student not qualifying the comprehensive exam in     two attempts or within four registered semesters     will be terminated from the programme. 
 
-Procedurally, the Office of Academic Affairs, upon the completion of every semester, will compile the grades obtained  by  students  registered  for  various  courses. These grades and the list of students eligible for award of degrees will be placed before the Senate for its due consideration.  The  Senate  after  considering  the proposal shall recommend to the BoG, for its further necessary approval, the list of candidates for award of degrees at the next Convocation of the Institute. 
+**12.7 Candidacy for the Ph.D. Degree** 
 
-However, during the academic session, from time-to- time, provisional degrees are issued by the DoAA. A list  of  provisional  degrees  issued  to  the  students between  two  Convocations  is  placed  for  necessary ![ref2] consideration and ratification by the Senate/BoG prior to the Convocation of the Institute, each time, for the award of degrees. 
+ A student enrolled in the Ph.D. programme is formally admitted to the candidacy for the Ph.D. degree after he/she has completed the course requirements for the degree with at least the minimum required CPI, and has passed the comprehensive examination. Only such 
 
-Under  exceptional  circumstances,  where  gross violation of the graduation requirements, falsification/ misrepresentation  of  facts  pertaining  to  eligibility  to the  programme  and/or  any  misconduct  (such  as tampering with the grade report/transcript) is detected at a later stage, the BoG upon the recommendation of the  Senate,  may  withdraw  a  degree  that  is  already awarded. 
 
-14. **FELLOWSHIP<a name="_page37_x48.00_y259.00"></a> FOR Ph.D. PROGRAMME** 
+ students who are admitted to the candidacy will be allowed to submit Ph.D. thesis. 
 
-    Students who have successfully qualified national level exams such as CSIR-JRF/DBT/UGC or equivalent can avail their fellowship from respective agencies. Such students  should  start  the  process  of  activating  their fellowship immediately after joining IISER Bhopal by submission of the complete and relevant forms to the granting agency through the Institute.  
+**12.8 Graduate Seminars** 
 
-Students  who  do  not  have  their  own  source  of fellowship but have qualified UGC-NET(LS), GATE etc. are eligible to receive Institute assistantship. 
+ (i) First Graduate Seminar: The candidate must give graduate seminar within one year of the comprehensive examination. This seminar must encompass the formulation of the research problem and survey of existing literature. If the student fails to clear graduate seminar in one attempt he/she must clear the same during subsequent attempts. (ii) Second Graduate Seminar: The student must give second graduate seminar by the end of eighth semester (for Ph.D.) and eleventh semester (for Integrated Ph.D.) of study. This seminar topic may be related to the research work of the student. Both the seminars will be assessed by a Department Level Committee and will be judged as satisfactory or unsatisfactory. In the latter case, a suitable course of action will be suggested by the Committee. The reports of the graduate seminars must be submitted to the DoAA through the thesis supervisor and Convener DPGC. 
 
-IISER  Bhopal  offers  hostel  accommodation  to  all students. Thus, no HRA will be admissible to students who wish to opt out the hostel facility and become day scholars. ![ref2]
+**12.9 Open Seminar** 
 
-15. **LEAVE<a name="_page38_x48.00_y51.00"></a> FOR Ph.D. STUDENTS** 
-1. **Annual<a name="_page38_x48.00_y73.00"></a> Leave** 
+ Prior to submitting his/her Ph.D. thesis, a student must present a seminar on his/her thesis work to an audience consisting of faculty members and students of the Institute. A notice of the open seminar must be displayed 7 days in advance. A copy of the notice should be submitted to the Office of Academic Affairs. 
 
-   Ph.D.  students  are  entitled  for  a  maximum  of  one month  of  paid  leave  during  an  academic  year  with prior approval of thesis supervisor and DoAA. 
 
-Fellow is not entitled to any other vacations. The leave will be treated as part of the fellow's tenure. The leave due can be carried over to the next year, however, not more  than  90  days  can  be  accumulated  at  any  time during the tenure, of this not more than 30 days can be availed in a calendar year with stipend and beyond that the leave will be treated as "Leave Without Stipend".  
+ General Public is also permitted to attend the Open Seminar. The student may incorporate comments/ criticism obtained from the audience in his/her thesis. The thesis can be submitted only after satisfactorily presenting the Open Seminar. A satisfactory completion report has to be submitted to the DoAA through the thesis supervisor and Convener DPGC. The maximum time duration for the submission of the thesis after the delivery of the open seminar will be six months. In exceptional circumstances, the students may seek an extension of up to three months with proper justification. However, if the thesis is not submitted within the desired period including the extension, the open seminar already delivered will stand cancelled and the student will be required to give a fresh open seminar before he/she submits his/her thesis. 
 
-During the first year of fellowship or any uncompleted year, leave may be granted on pro-rata basis. Sanction of  leave  without  stipend  may  be  considered  by respective  funding  agencies  under  special circumstances.  
+**12.10 Ph.D. Thesis Evaluation Board** 
 
-In  case  fellow  proceeds  on  leave  before  expiry  of fellowship  tenure,  he/she  must  join  back  before  the expiry  of  tenure;  failing  which  the  tenure  will  be deemed to have terminated with effect from the date he/she proceeded on leave. 
+ The thesis will be evaluated by a board. The board, approved by the Chairperson, Senate, shall consist of two members in addition to the thesis supervisor(s). Members of the board should be very well recognized in the field and should be from other Institutes/ Universities/Research Organizations. The procedure for constitution of the ‘Thesis Evaluation Board’ is as follows: 
 
-2. **Leave<a name="_page38_x48.00_y436.00"></a> for Academic Activities**  
+1. The list of thesis examiners should be proposed at     most 4 weeks before the submission of the Ph.D.     thesis. 
 
-   Students  will  be  granted  leave,  without  loss  of scholarship  for  academic  activities  like  attending conferences and conducting field work, provided it is certified by thesis supervisor or Convener, DPGC (if a  supervisor is not allotted). The leave application for this  purpose  should  be  submitted  to  the  Office  of Academic  Affairs.  Further,  students  proceeding  on ![ref2] leave for academic activities are expected to be present for registration, examination and all other mandatory activities. 
 
-The student should not proceed on leave to visit abroad for  attending  conferences/seminars  etc.  without prior approval of the funding agency, well in advance. The entire duration of such foreign visits if funded by any national/international  agency,  whether  partially  or fully, would be treated as leave without stipend. 
+2. The research supervisor of the student should     propose a list of 10 examiners (including     himself/herself, with contact details including     email, fax, telephone number and complete postal     address) to the Office of Academic Affairs. Among     the 10 listed examiners for Ph.D. thesis evaluation,     not more than five may be from outside India. A     hardcopy and softcopy of the synopsis should also     be submitted along with the list of examiners.     To provide larger visibility to the research work     carried out in IISER Bhopal in international front it     is advised to put at least three examiners for Ph.D.     Thesis evaluation from outside India. 
 
-3. **Maternity<a name="_page39_x48.00_y206.00"></a> Leave**  
+3. The Chairperson, Senate, in consultation with the     DoAA will select the names of the thesis examiners     from the list provided by the supervisor to     constitute the thesis evaluation board. The     Chairperson, Senate may add examiners and/or ask     for an additional list of examiners, if required. In     case the Chairperson, Senate is the thesis     supervisor, then the thesis evaluation board will be     constituted by the DoAA. In case the DoAA is the     thesis supervisor, then the Chairperson, Senate will     constitute the thesis evaluation board, in     consultation with the Dean, Faculty Affairs. 
 
-   A female student may be granted maternity leave as per Govt. of India norms issued from time to time at full rates of fellowship once during the tenure of their fellowship.  Women  fellows  with  less  than  two surviving  children  are  entitled  to  full  stipend  plus HRA, during the period of absence up to 180 days on grounds of maternity. Such leave shall be sanctioned by the Guide under intimation to funding agencies. The fellowship amount for leave period will be paid after the  fellow  resumes  duty  and  submits  a  medical certificate  in  support  of  actual  confinement.  It  is expected that the fellow will make up for the research work during the remaining tenure. 
+4. DoAA will send a copy of the synopsis to each     member of the thesis evaluation board for obtaining     their consent to act as thesis examiners. If no     consent is obtained within two weeks, DoAA will     communicate with other examiners in the list (as     approved by the Chairperson, Senate), and this     exercise will continue until adequate number of 
 
-4. **Paternity<a name="_page39_x48.00_y440.00"></a> Leave**  
 
-   A male student with less than two surviving children are  entitled  for  15  days  paternity  leave  during confinement  of  his  wife  on  submission  of  relevant documentary proof as per Govt. of India norms issued from  time  to  time  at  full  rates  of  fellowship  once during the tenure of their fellowship.  ![ref2]
+ examiners have consented. In rare circumstances, the DoAA may request another list of suggested examiners from the thesis supervisor, in case the original list is exhausted, and adequate number of examiners is not found. 
 
-5. **Leave<a name="_page40_x48.00_y51.00"></a> Until Oral Examination** 
+5. After consent is obtained from the examiners, a     copy of the thesis (soft bound hardcopy/softcopy     depending upon the preference of the examiner) is     sent to each examiner. Such a copy of the thesis     must be submitted to the Office of Academic     Affairs within 4 weeks of the submission of the list     of examiners. The preference of the thesis examiner     for a soft-bound copy/soft copy of the thesis will be     communicated to the supervisor as soon as it is     known. 
 
-   A student will be granted leave until oral examination after  he  submits  the  thesis  for  evaluation.  However, he/she should submit a request to be retained on the Institute’s  rolls  along  with  the  prescribed  fee,  every semester,  while  on  leave.  Such  leave  cannot  be  for more than a year. 
+6. In case the DoAA is the supervisor of the Ph.D.     student, the above exercise is carried out by Dean,     Faculty Affairs. 
 
-The  students  who  are  availing  Leave  Until  Oral Examination  will  not  be  paid  any  assistantship/ fellowship during the period of leave. The student will not be registered for any course, nor earn any thesis credits during this leave. Additionally, the student can not avail the Institute’s facilities during this period. 
+7. In all cases, the names of the thesis examiners will     be kept confidential till the oral examination. Upon     the completion of the evaluation of the Ph.D. thesis,     the Office of Academic Affairs will communicate     the names of the faculty members of the Institute (if     any), as well as, the names of the thesis examiners     from outside the Institute who will be a part of the     oral board, approved by the Chairperson, Senate, to     the thesis supervisor. 
 
-6. **Semester<a name="_page40_x48.00_y275.00"></a> Leave** 
+**12.11 Ph.D. Thesis Evaluation** 
 
-   A student is not normally allowed to withdraw from the academic programme temporarily and is expected 
+1. Upon receiving all reports from the thesis     evaluation board, the DoAA will place the thesis in 
 
-to finish his/her studies without any break.  However, for  genuine  reasons  and/or  under  exceptional circumstances, a student may be allowed to withdraw temporarily at the discretion of Chairperson, Senate for an extended period.  Such an application of temporary withdrawal  must  be  supported  by  proper      documentation    and    should    be    endorsed    by    the    parents/guardians.  A student  who  has  been  granted temporary   withdrawal   from   the   Institute   under   the   above  provisions  will  be  required  to  pay  the  token registration fees, if the application is submitted before the commencement of semester. Such leave  of  absence  shall  ordinarily  not  exceed  two semesters  with  or  without  break  during  the  entire period of the academic programme. During the entire ![ref2] duration  of  his/her  leave,  no  fellowship  will  be awarded in any form irrespective of the CPI. 
 
-16. **FINANCIAL<a name="_page41_x48.00_y109.00"></a>  ASSISTANTSHIP  FOR ATTENDING CONFERENCES (FAAC) SCHEME** 
+ one of the following categories in accordance with the nature of recommendations: i. Category 1: The examiner has not pointed out any errors and has no corrections/suggestions. The examiner has recommended that the thesis be accepted as is. ii. Category 2: The examiner has pointed out only grammatical errors like punctuation, spelling mistakes or language problems. Suggested changes must be incorporated in the thesis to the satisfaction of the oral board. 
 
-    The  Institute has  implemented the FAAC scheme to encourage  and  facilitate  its  students  to  attend conferences/workshops. This will enable the students to  showcase  their  research  globally  and  exchange scientific  intellect  and  ideas  at  various  academic platforms. 
+iii. **Category 3:** The examiner points out minor technical mistakes/raises queries/suggests some modifications but does not subject the acceptance of the thesis to the answering of queries/incorporation of suggestions. The student must respond to the queries raised by the examiner and submit the revised thesis to the Office of Academic Affairs through his/her thesis supervisor. Suggested changes must be incorporated in the thesis to the satisfaction of the oral board. iv. **Category 4:** The thesis examiners reject the thesis in its present form and point out major technical errors, clearly mentioning that the thesis cannot be accepted unless he/she is satisfied with the changes made by the student. In this case, the thesis supervisor(s) will communicate the changes carried out in the thesis, if any, in response to the queries raised by the examiner(s) with a covering note and 
 
-The scheme is open to all Integrated Ph.D. and Ph.D. students  who  have  qualified  their  Ph.D.  candidacy requirements. 
 
-The main objective of this scheme is to encourage and enable  students  to  attend  conferences/workshops outside India. 
+ send it to the examiner through the DoAA with a request to respond within six weeks. If no response is received within the stipulated period, a reminder will be sent and the wait period will be extended by another six weeks. If no response is received even after twelve weeks further action will be initiated. v. Category 5: The thesis examiners find the thesis unsuitable and reject it. The thesis examiners explicitly mention that this thesis cannot be considered even with major revisions/resubmissions. If one of the examiners rejects the thesis, the matter will be referred to Chairperson, Senate for deciding further course of action. If two or more examiners reject the thesis, the thesis will be rejected. Students receiving such a recommendation will be terminated from their academic programme. 
 
-The  scheme  will  support  all  expenditure  related  to travel,  registration,  accommodation,  travel  insurance, VISA  processing  and  food  subject  to  capping  as mentioned in the detailed guidelines. All claims have to be supported by valid copies of bills/statements, in original,  failure  of  which  no  reimbursement  will  be made.  
+2. Copies of the report along with the category of the     thesis (without the identity of the examiner) will be     communicated to the thesis supervisor(s). 
 
-17. **PROVISIONS<a name="_page41_x48.00_y494.00"></a> FOR RELAXATION** 
+3. On completion of the process detailed above, the     DoAA will intimate the concurrence of the     Chairperson, Senate, if given, to the supervisor, to     initiate the constitution of the oral board. This     concurrence of Chairperson, Senate will be given if     all the examiners recommend acceptance of the     thesis. 
 
-    Senate  may  grant  relaxation  in  the  prescribed minimum/maximum  residence  and/or  academic requirements to a student in view of the work done by ![ref2] him/her  in  the  Institute  or  elsewhere,  to  the  extent considered appropriate  according to  the merit  of the case. 
+4. In case the DoAA is the supervisor of the student     concerned, the above processing will be done by     Dean, Faculty Affairs. 
 
-18. **PROVISIONS<a name="_page42_x48.00_y126.00"></a> FOR AMENDMENTS** 
-- The Institute reserves the right to modify/amend/ revise any rules without prior notice. 
-- For special cases not covered under the specified rules,  the  decision  of  Deans/Senate  will  be  final and binding. ![ref2]
 
-40 **|** P a g e** 
+ If plagiarism is detected at any stage during the Ph.D. programme or even after award of the degree, disciplinary action including termination from the programme or withdrawal of the degree, as appropriate, will be initiated by the Institute. 
 
-qrrfu frflq frtHT \q cn-gwn dwrq fiqd
+**12.12 Submission of Evaluated Thesis** 
 
-tmFro. o.rqtdq
+ Hard bound copies of the Ph.D. thesis can be submitted only after the corrections, if any required by the thesis evaluation board have been incorporated. The thesis supervisor should certify the incorporation of all comments. Copies of the Ph.D. thesis (prepared according to the duly approved format), one for each examiner of the oral board and additional copies as required by Department should be prepared. One copy of the duly signed hard copy of the thesis should be deposited to the Office of the Academic Affairs. 
 
-IISERB/DOAN2OZI/055
+**12.13 Ph.D. Oral Board** 
 
-January 29,2021
+1. The ‘Oral Board’ shall consist of four members in     addition to the thesis supervisor(s). Of the four, one     shall be from the external members of the thesis     evaluation board to be nominated by the     Chairperson, Senate. Other three members of the     oral board shall be from among the faculty     members of the IISER Bhopal (including those, if     any, on the thesis evaluation board). Of the three     members from IISER Bhopal at least one shall be     from a Department other than the student’s     Department. 
 
-Office Order
+2. Of the four, three shall be from among the faculty     members of the Institute (including those, if any, on     the thesis evaluation board) and one shall be from 
 
-Sub: Policy for Conducting  Comprehensive Examination for Ph.D. candidacy.
 
-Ref: Agenda Item No. 61.6 of the202l-ll61't Senate meeting dated January 06,2021.
+ among the members of the thesis evaluation board (to be nominated by the Chairperson, Senate from the thesis evaluation board) from outside the Institute. Of the three members from IISER Bhopal at least one shall be from a Department other than the student’s Department. The Chairperson, Senate will nominate one member from the thesis evaluation board to the oral board. 
 
-The Senate vide minutes of its 2021-1/61" meeting has approved the following policy for conducting Comprehensive  Examination for Ph.D. candidacy.
+3. The thesis supervisor(s) will propose the oral board     in the prescribed format for the approval of the     Chairperson, Senate. 
 
-Comprehensive  Examination for Ph.D. candidacy must consist of the following components:
+4. The duly approved oral board will be     communicated to the thesis supervisor by the     Office of Academic Affairs. 
 
-1) Written component such as Written examination / Submission of a research proposal / Written chapter.
-1) Oral examination
+5. Thereafter, the thesis supervisor will be responsible     for making all necessary arrangements (including     travel, accommodation for the external examiner,     scheduling, announcing the oral exam and     conducting the same) duly completing all     formalities and following approved procedures. 
 
-The due weightage  of both the components can be decided by the concerned department. The syllabus, area of the above components and weightage should be determined  and announced  in advance.
+**12.14 Ph.D. Oral Examination** 
 
-The Oral Examination Committee should consist of the following:
+1. The Ph.D. oral examination will be an open     examination. The supervisor will be the convener     of the oral board and will fix the date of the oral     examination and intimate the date to the Office of     Academic Affairs. 
 
-1) Thesis Supervisor.
-1) At least I external expert preferably from within the lnstitute. In case the external member is from outside the Institute, a suitable justification must be provided by the department.
-1) Minimum 2 experts related to the topic.
-1) One Nominee ofthe HoD.
-1) In case of repeat oral examination,  the HoD/Convener, DPGC must attend the oral examination.
+2. If a member of the oral board communicates his/her     inability to be present in advance or fails to be     present on the specified date and time, the     Chairperson, Senate may appoint a substitute in 
 
-This is for information  and necessary action by all concerned.
 
-Dean, Academic Affairs
+ consultation with the thesis supervisor(s), Convener DPGC and DoAA. 
 
-To: 1. All Heads of Academic Departments via E-mail
+3. Each member of the oral board will be given a copy     of the thesis/revised thesis, along with the reports     of the thesis evaluation committee at least one week     before the date of the oral examination. 
 
-2. All Convener, DPGCs via E-mail
-2. All Faculty via E-mail.
-2. All Ph.D. Students via E-mail.
-2. NoticeAVebsite.
+4. The oral board shall 
 
+ (i) examine the thesis reports, (ii) examine if necessary modifications suggested by the thesis examiners have been incorporated, (iii) examine the candidate on questions raised by the thesis evaluation board, (iv) authenticate the work as the student's own, (v) judge if the presentation of the work by the student and the answers to the questions asked have been satisfactory, and (vi) provide a report of the candidate’s performance, which will be communicated by the supervisor(s) to the DoAA through the Convener, DPGC and Head of the Department. 
 
-Indian Institute of Science Education and Research Bhopal Bhopal Bypass Road, Bhauri, Bhopal -462066 Madhya Pradesh, India
+5. If all, except at most one member, declare the     student as passed, the matter will be referred to the     Chairperson, Senate for a decision on whether or     not the student be declared ‘passed’. 
 
-List of Suggested Examiners for the Ph.D. Comprehensive Examination
+6. If a candidate has not passed, the oral board will     specify whether        (i) the candidate may be given another chance to           appear in the oral examination and will specify 
 
-Name of the student: Roll no.:
 
-Programme: Department:
+ the approximate date for re-examination. The original oral board will conduct the reexamination unless a different oral board is approved by the Chairperson, Senate. In the reexamination, the board will declare whether the student has passed or failed as per the criteria laid down above but will not recommend holding a third oral examination. (ii) the candidate is declared to have failed. 
 
-Funding Agency:
+7. On receipt of the report that the student has passed     the oral examination, the DoAA will initiate further     proceedings for the award of the Ph.D. degree. 
 
-Date of admission  to the programme (DDA4M/YYYY):
+8. If the candidate has failed, the matter will be     brought to the attention of the Chairperson, Senate     for further action. 
 
-Thesis supervisor(s):
+**13. GRADUATION REQUIREMENTS OF Ph.D.**     **PROGRAMME**     A student shall be deemed to have completed the     graduation requirements, if the student      Has completed a minimum residence of 3 years        (and no more than 7 years) from admission to the        programme.      Has no F grade in all courses registered for.      Has qualified the comprehensive exam, admitted to        Ph.D. candidacy, presented Graduate, and Open        Seminar, submitted Ph.D. thesis and passed the        thesis Oral Examination, 
 
-S. No. Desisnation Name of the Examiner Deuartment
 
-I Extemal Expertx
+ Has completed all specified credit requirements (course and research work). 
 
-2. Ph.D. Supervisor
-2. HoD's Nominee
-2. Expert Member
-2. Expert Member
+ Has earned a minimum CPI of 7.0 on a 10.0 point scale in addition to the credit requirements. 
 
-6\.
+ Has satisfied all other requirements specified by the concerned Department, if any, 
 
-(\*External expert should be from a department other than the student's department or from outside the Institute)
+ Has satisfied all the requirements specified by the Senate and the Ordinances. 
 
-Date: Supervisor
+ Has paid all the dues to the Institute, as applicable. 
 
-Convener, DPGC HoD,
+ Has no case of indiscipline pending against him/ her. 
 
-Approved
+ Has served as tutor for at least two semesters any time before submission of the thesis. 
 
-Dean" Academic Affairs
+Upon completion of the graduation requirements and fulfilling the requirement for participation in the Convocation, the student will be awarded his/her degree during the convocation. 
 
-Indian Institute of Science Education and Research Bhopal Bhopal Bypass Road, Bhauri, Bhopal - 462066 Madhya Pradesh, India
+Procedurally, the Office of Academic Affairs, upon the completion of every semester, will compile the grades obtained by students registered for various courses. These grades and the list of students eligible for award of degrees will be placed before the Senate for its due consideration. The Senate after considering the proposal shall recommend to the BoG, for its further necessary approval, the list of candidates for award of degrees at the next Convocation of the Institute. 
 
-Report of the Examiners for the Ph.D. Comprehensive Examination Name ofthe student:  Roll no.:
+However, during the academic session, from time-totime, provisional degrees are issued by the DoAA. A list of provisional degrees issued to the students between two Convocations is placed for necessary 
 
-Programme:  Department:
 
-Date of admission to the programme (DD/IVIM/YYYY):
+ consideration and ratification by the Senate/BoG prior to the Convocation of the Institute, each time, for the award of degrees. Under exceptional circumstances, where gross violation of the graduation requirements, falsification/ misrepresentation of facts pertaining to eligibility to the programme and/or any misconduct (such as tampering with the grade report/transcript) is detected at a later stage, the BoG upon the recommendation of the Senate, may withdraw a degree that is already awarded. 
 
-Date of the written comprehensive examination:
+**14. FELLOWSHIP FOR Ph.D. PROGRAMME** 
 
-Date of the oral comprehensive examination: Funding Agency:
+ Students who have successfully qualified national level exams such as CSIR-JRF/DBT/UGC or equivalent can avail their fellowship from respective agencies. Such students should start the process of activating their fellowship immediately after joining IISER Bhopal by submission of the complete and relevant forms to the granting agency through the Institute. Students who do not have their own source of fellowship but have qualified UGC-NET(LS), GATE etc. are eligible to receive Institute assistantship. IISER Bhopal offers hostel accommodation to all students. Thus, no HRA will be admissible to students who wish to opt out the hostel facility and become day scholars. 
 
-Thesis supervisor(s):
 
-Rate the overall performance  of student on the scale of 0-10:
+**15. LEAVE FOR Ph.D. STUDENTS** 
 
-(0-Very Bad, l0-Outstanding)
+**15.1 Annual Leave** 
 
-Candidate has
+ Ph.D. students are entitled for a maximum of one month of paid leave during an academic year with prior approval of thesis supervisor and DoAA. Fellow is not entitled to any other vacations. The leave will be treated as part of the fellow's tenure. The leave due can be carried over to the next year, however, not more than 90 days can be accumulated at any time during the tenure, of this not more than 30 days can be availed in a calendar year with stipend and beyond that the leave will be treated as "Leave Without Stipend". During the first year of fellowship or any uncompleted year, leave may be granted on pro-rata basis. Sanction of leave without stipend may be considered by respective funding agencies under special circumstances. In case fellow proceeds on leave before expiry of fellowship tenure, he/she must join back before the expiry of tenure; failing which the tenure will be deemed to have terminated with effect from the date he/she proceeded on leave. 
 
-PASSED and may be admitted to the candidacy for Ph.D. degree and will be allowed to submit a. 
+**15.2 Leave for Academic Activities** 
 
-the Ph.D. thesis in accordance  with the prescribed guidelines.
+ Students will be granted leave, without loss of scholarship for academic activities like attending conferences and conducting field work, provided it is certified by thesis supervisor or Convener, DPGC (if a supervisor is not allotted). The leave application for this purpose should be submitted to the Office of Academic Affairs. Further, students proceeding on 
 
-6. FAILED  and is advised to clear comprehensive in the second attempt before the completion of his fourth semester
 
-c. FAILED inthe second attempt also and is recommended for TERMINATION.
+ leave for academic activities are expected to be present for registration, examination and all other mandatory activities. The student should not proceed on leave to visit abroad for attending conferences/seminars etc. without prior approval of the funding agency, well in advance. The entire duration of such foreign visits if funded by any national/international agency, whether partially or fully, would be treated as leave without stipend. 
 
-S. No. Desisnation \ame of the Examiner Denartment Sisnature
+**15.3 Maternity Leave** 
 
-I External Expert 2. Ph.D. Supervisor a HoD's Nominee
+ A female student may be granted maternity leave as per Govt. of India norms issued from time to time at full rates of fellowship once during the tenure of their fellowship. Women fellows with less than two surviving children are entitled to full stipend plus HRA, during the period of absence up to 180 days on grounds of maternity. Such leave shall be sanctioned by the Guide under intimation to funding agencies. The fellowship amount for leave period will be paid after the fellow resumes duty and submits a medical certificate in support of actual confinement. It is expected that the fellow will make up for the research work during the remaining tenure. 
 
-4. Expert Member
-4. Expert Member 6.
+**15.4 Paternity Leave** 
 
-Comments, if any:
+ A male student with less than two surviving children are entitled for 15 days paternity leave during confinement of his wife on submission of relevant documentary proof as per Govt. of India norms issued from time to time at full rates of fellowship once during the tenure of their fellowship. 
 
-Ph.D. Supervsior Convener. DPGC
 
-HoD Approved
+**15.5 Leave Until Oral Examination** 
 
-Dean. Academic Affairs Notc: The report of the comprehensive examination must be sent to the Dean, Academic Affairs
+ A student will be granted leave until oral examination after he submits the thesis for evaluation. However, he/she should submit a request to be retained on the Institute’s rolls along with the prescribed fee, every semester, while on leave. Such leave cannot be for more than a year. The students who are availing Leave Until Oral Examination will not be paid any assistantship/ fellowship during the period of leave. The student will not be registered for any course, nor earn any thesis credits during this leave. Additionally, the student can not avail the Institute’s facilities during this period. 
 
-within 8 weeks of the date of approval of the examiners.
+**15.6 Semester Leave** 
 
+ A student is not normally allowed to withdraw from the academic programme temporarily and is expected to finish his/her studies without any break. However, for genuine reasons and/or under exceptional circumstances, a student may be allowed to withdraw temporarily at the discretion of Chairperson, Senate for an extended period. Such an application of temporary withdrawal must be supported by proper documentation and should be endorsed by the parents/guardians. A student who has been granted temporary withdrawal from the Institute under the above provisions will be required to pay the token registration fees, if the application is submitted before the commencement of semester. Such leave of absence shall ordinarily not exceed two semesters with or without break during the entire period of the academic programme. During the entire 
 
-qrEfu ftflq PIHr \rq cn-gqqn €wrn fiqrd{
 
-ahnFro olql-dq
+ duration of his/her leave, no fellowship will be awarded in any form irrespective of the CPI. 
 
-IISERB/DOAN2O2II38 January 21,2021
+**16. FINANCIAL ASSISTANTSHIP FOR**     **ATTENDING CONFERENCES (FAAC) SCHEME**     The Institute has implemented the FAAC scheme to     encourage and facilitate its students to attend     conferences/workshops. This will enable the students     to showcase their research globally and exchange     scientific intellect and ideas at various academic     platforms.     The scheme is open to all Integrated Ph.D. and Ph.D.     students who have qualified their Ph.D. candidacy     requirements.     The main objective of this scheme is to encourage and     enable students to attend conferences/workshops     outside India.     The scheme will support all expenditure related to     travel, registration, accommodation, travel insurance,     VISA processing and food subject to capping as     mentioned in the detailed guidelines. All claims have     to be supported by valid copies of bills/statements, in     original, failure of which no reimbursement will be     made. 
 
-Office Order
+**17. PROVISIONS FOR RELAXATION** 
 
-Sub: Maximum tenure of Ph.D. Fellowship.
+ Senate may grant relaxation in the prescribed minimum/maximum residence and/or academic requirements to a student in view of the work done by 
 
-Ref: Agenda Item No. 60.15 of the 2020-4/60b Senate meeting dated November 09,2020.
 
-This is to inform all concerned that the maximum tenure of Ph.D. fellowship will be 5 year only regardless ofthe source of funding.
+ him/her in the Institute or elsewhere, to the extent considered appropriate according to the merit of the case. 
 
-The Institute funded students have to submit an undertaking that they will immediately inform their supervisors,  Head of the Department and the Dean, Academic Affairs, whenever they qualifu in any external fellowship exam conducted by UGC/CSIR etc. and shall activate the fellowship at the earliest opportunity. If the students fail to notiff the same, the Institute shall recover the fellowship amount from the student for such periods and also stop the Institute fellowship, subsequently.
+**18. PROVISIONS FOR AMENDMENTS** 
 
-The students who suffer financial loss due to transition from Institute to external fellowship,  the difference, if any, shall be reimbursed by the Institute towards assistantship for a maximum period of 02 years only.
+  The Institute reserves the right to modify/amend/ revise any rules without prior notice.  For special cases not covered under the specified rules, the decision of Deans/Senate will be final and binding. 
 
-Dean, Academic Affarrs
 
-To: 1. All Heads of Academic Departments via E-mail
+qrrfu (^) frflq frtHT (^) \q cn-gwn (^) dwrq fiqd tmFro. o.rqtdq IISERB/DOAN2OZI/055 January 29,2021 Office Order Sub: Policy for Conducting Comprehensive Examination for (^) Ph.D. candidacy. Ref: Agenda (^) Item No. 61.6 of the202l-ll61't Senate meeting dated January 06,2021. The (^) Senate vide minutes of its 2021-1/61" meeting has approved the following policy for conducting Comprehensive Examination for Ph.D. candidacy. Comprehensive (^) Examination for Ph.D. candidacy must consist of the following components: (a) Written component such as Written examination (^) / Submission of a research proposal / Written chapter. (b) (^) Oral examination The due weightage of both the components can be decided by the concerned department. The syllabus, area of the above components and weightage should be (^) determined and announced in advance. The Oral Examination Committee should consist of the following: (a) (^) Thesis Supervisor. (b) At least I external expert preferably (^) from within the lnstitute. In case the external member is from outside the Institute, a suitable justification^ must be provided by the department. (c) Minimum 2 experts related to the topic. (d) (^) One Nominee ofthe HoD. (e) In case of repeat (^) oral examination, the HoD/Convener, DPGC must attend the oral examination. This is for information and necessary action by all concerned. 
 
-2. All Convener, DPGCs viaE-mail
-2. All Facultyvia E-mail
-2. Deputy Registrar (F&A)
-2. All Ph.D. Students viaE-mail
-2. NoticeAVebsite
+1. All Heads of Academic Departments via E-mail 
 
-,.',,t?"$a\ i-'i'ffi{::y\
+##### 2. All Convener, DPGCs via E-mail 
 
-f;eBffi.f$i.f-{'
+##### 3. All Faculty via E-mail. 
 
-ETKfiq frTTrdT RTffir ('?i qsrTtd €-€?rrdT enqrfr \*erFmo-lqfdq
+##### 4. All Ph.D. Students via E-mail. 
 
-o.rqfdq.sneqr
+##### 5. NoticeAVebsite. 
 
-IISERB/DO AN2O2I169
+To: 
 
-Februarv 09.2021
+Dean, Academic Affairs 
 
-Sub: Amendments in the existing guidelines for Financial Assistantship for Attending
 
-Conferences  (FAAC) Scheme
+#### Indian Institute of Science Education and Research Bhopal 
 
-The Institute has implemented  the FAAC scheme to encourage and facilitate its students to attend conferences/workshops.  This will enable the students to showcase their research
+ Bhopal Bypass Road, Bhauri, Bhopal -462066^ Madhya Pradesh, India 
 
-globally and exchange scientific intellect and ideas at various academic platforms.
+List (^) of Suggested Examiners for the Ph.D. Comprehensive Examination Name of the student: Programme: Funding Agency: Date of admission to the programme^ (DDA4M/YYYY): Thesis supervisor(s): Roll no.: Department: S. No. Desisnation (^) Name of the Examiner Deuartment I Extemal Expertx 
 
-General Guidelines:
+2. Ph.D. Supervisor 
 
-1. The main objective of this scheme is to encourage and enable students to attend conferences/workshops outside India.
-1. The scheme is open to all Integrated Ph.D. and Ph.D. students who have qualified their Ph.D. candidacy requirements. However, the students funded by external agencies will be given preference in allocation of funds.
-1. A committee duly appointed by the Chairperson,  Senate will select the students who are eligible to avail this scheme.
-1. The duly appointed committee will meet regularly to review the applications  received.
-1. In the process of selection preference will be given to the 5tr year studeht followed by 4h year.
-1. For recommending  candidates, oral presentation will be given preference over poster presentation and./or participation.
-1. In case of a 3'd year student applying for FAAC funding, a strong justification followed by special approval from department will be requested.
-1. A student will be permiued to submit only one application under the FAAC Scheme at a point of time. The maximum limit of fund given to any student including both national
+3. HoD's Nominee 
 
-and international conference/workshop stands revised to 1.5 lakhs. However, for attending conferences within India, the limit will be Rs. 10,000 in each instance. Further, application will be considered depending on the availability of funds under the scheme. Dearness Allowance (DA) will be paid up to a limit of USD 50 or equivalent
+4. Expert^ Member 
 
-per day (for conferences/workshops outside India) upon the production of actual bills of expenditure only for the duration of the conference or up to a maximum of 5 days. For conferences/workshops within India, DA will be paid as per the entitlement upon the production of actual bills of expenditure only for the duration of the conference or up to a maximum of 5 days.
+5. (^) Expert Member 6. (*External expert should be from (^) a department other than the student's department or from (^) outside the Institute) Date: Supervisor Convener, DPGC HoD, Approved Dean" Academic Affairs 
 
-9. The scheme will support all expenditure related to travel, registration, accommodation, travel insurance, VISA processing and food. All claims have to be supported by valid copies of bills/statements, in original, failing which no reimbursement will be made.
-9. For international travel only, a maximum of 80% of the estimated  cost can be taken as an advance before attending the conference. No advance payment will be made for
 
-travel within India. 11. All applicants have to apply online (any time throughout the year) to avail this scherne. Please download the forms and fill them completely. Save your word file as "FAAC
+Indian Institute of (^) Science Education and Research Bhopal Bhopal Bypass Road, Bhauri, Bhopal 462066 (^) Madhya Pradesh, India 
 
-Scheme Roll No" (example: "FAAC Scheme\_l020101"), generate the PDF and email the same to office\_aa@iiserb.ac.in
+##### Report of the Examiners for the Ph.D. Comprehensive Examination 
 
-12\. Air travel, both domestic and international should be made only through Air India. For places where Air India does not provide service, travel may be made by other airlines also (subject to prior and specific approval in this regard).
+Name ofthe student: (^) Roll no.: Programme: (^) Department: Date of admission to the programme (DD/IVIM/YYYY): Date of the written comprehensive examination: Date of the oral comprehensive examination: Thesis supervisor(s): Rate the overall performance of student on the (^) scale of 0-10: (0-Very Bad, l0-Outstanding) Candidate has Funding Agency: a. PASSED^ and^ may^ be admitted^ to the^ candidacy^ for^ Ph.D.^ degree and^ will^ be^ allowed^ to submit the Ph.D. thesis in accordance with (^) the prescribed guidelines. 
 
-This is for information and necessary action bv all concerned.
+6. FAILED^ and^ is advised^ to^ clear comprehensive^ in^ the^ second^ attempt before the^ completion of his 
 
-Encl: 1. Approval of Travel Support for FAAC Scheme
+fourth (^) semester c. FAILED inthe second attempt (^) also and is (^) recommended for TERMINATION. Comments, if any: Ph.D. (^) Supervsior Convener. DPGC HoD (^) Approved Dean. Academic Affairs Notc: The report of the comprehensive examination must be sent to the Dean, Academic Affairs within 8 weeks of the date of approval of the examiners. S. No. (^) Desisnation \ame of the Examiner Denartment (^) Sisnature I (^) External Expert 2. (^) Ph.D. Supervisor a (^) HoD's Nominee 
 
-2. Joumey Cum Travel Advance Approval
-2. Travelline Allowance Bill for FAAC Scheme
+4. Expert^ Member 
 
-Copy to: 1. Director, IISER Bhopal
+5. Expert Member 6. 
 
-2\.Deputy Director, IISER Bhopal
 
-3. Registrar, IISER Bhopal
-3. All DeansA{eads  of Academic  Departments via E-mail
-3. Deputy Registrar (F&A)
-3. All lntegrated Ph.D./Ph.D. students via E-mail
-3. Notice/Website
+qrEfu (^) ftflq PIHr (^) \rq cn-gqqn (^) €wrn fiqrd{ ahnFro olql-dq IISERB/DOAN2O2II38 January 21,2021 Office Order Sub: Maximum (^) tenure of Ph.D. Fellowship. Ref: Agenda Item No. 60.15 of the 2020-4/60b (^) Senate meeting (^) dated November 09,2020. This is (^) to inform all concerned that the maximum tenure of Ph.D. fellowship will be 5 year only regardless ofthe (^) source of funding. The Institute funded (^) students have to submit an undertaking that they will immediately inform their supervisors, Head (^) of the Department and the Dean, Academic Affairs, whenever they qualifu in any external fellowship exam (^) conducted by UGC/CSIR etc. and shall activate the fellowship at the earliest opportunity. If the students fail (^) to notiff (^) the same, the Institute shall recover the fellowship amount from the student for such periods and also stop the Institute fellowship, (^) subsequently. The students who suffer financial loss due to transition from Institute (^) to external fellowship, the difference, if any, shall be reimbursed by (^) the Institute (^) towards assistantship for a maximum period of 02 years only. 
 
-qt-{fi-q fuaH RreTT gq er1-qrrq rrqenq dqrf,
+1. All Heads of Academic Departments via E-mail 
 
-Indian Institute of Science Education and Research Bhopal
+##### 2. All Convener, DPGCs viaE-mail 
 
-Approval of Travel support for FAAC Scheme
+##### 3. All Facultyvia E-mail 
 
-Name of the Student
+##### 4. Deputy Registrar (F&A) 
 
-Finance Officer
+##### 5. All Ph.D. Students viaE-mail 
 
-Nature of ConferenceAVorkshop
+###### 6. NoticeAVebsite 
 
-(enclose original Invitation / Brochure
+ To: 
 
-To avail the scheme Details of leave
+Dean, (^) Academic Affarrs 
 
-National (Please
 
-tick below
+ ,.',,t?"$a\ i-'i'ffi{::y\ f;eBffi.f $i.f-{' 
 
-Present a Poster Deliver a Scientific presentation Others (Please specify)
+ETKfiq (^) frTTrdT RTffir ('?i^ qsrTtd €-€?rrdT enqrfr 
 
-No. of Days
+###### *erFmo-lqfdq 
 
-Finance Officer
+ o.rqfdq.sneqr IISERB/DO AN2O2I169 Februarv 09.2021 
 
-Expenditure (Estimate)
+Sub: Amendments in (^) the existing guidelines (^) for Financial Assistantship for Attending Conferences (FAAC) Scheme The Institute has implemented the FAAC (^) scheme to encourage and facilitate its students to 
 
-Amount of Advance required, If any (Only
+###### attend conferences/workshops. This will enable the students to showcase their research 
 
-for international
+globally (^) and exchange scientific intellect and ideas at various academic platforms. General Guidelines: 1. The main objective of this (^) scheme is to encourage and enable students to attend conferences/workshops outside India. 2. The scheme is open to all Integrated Ph.D. and Ph.D. (^) students who have qualified (^) their Ph.D. candidacy requirements. However, the students funded by external agencies (^) will be given preference^ in allocation of funds. 
 
-Details of financial Total (Rs.) support from other
+###### 3. A committee duly appointed by the Chairperson, Senate will select the students who 
 
-sources
+ are eligible to avail this scheme. 
 
-ture of the Student
+4. The duly (^) appointed committee will meet regularly to review the applications received. 5. In the process of selection preference (^) will be given to the 5tr year studeht followed by 4h year. 6. For recommending candidates, oral presentation (^) will be given preference (^) over poster presentation (^) and./or participation. 7. In case of a 3'd year student applying for FAAC funding, (^) a strong justification followed by special approval from department will be requested. 
 
-Approved as per rule HOD lDean/ Director
+##### 8. A^ student will be permiued^ to submit only one application under the FAAC Scheme at 
 
-Finance Officer
+ a point^ of time. The maximum limit of fund given to any student including both national 
 
-Indian Institute of Science Education and Research Bhopal
+and international (^) conference/workshop stands revised to 1.5 lakhs. However, for attending conferences within India, (^) the limit (^) will be Rs. 10,000 in each instance. Further, application will (^) be considered depending on the availability of funds under the scheme. Dearness Allowance (DA) will be paid up to a limit (^) of USD 50 or equivalent 
 
-Journeg Cum Trqael Aduance Approaal
 
-Account Head:
+per (^) day (for (^) conferences/workshops outside India) upon the production of actual bills of expenditure only for^ the duration of the conference or up to a maximum of 5 days. For conferences/workshops within India, (^) DA will be paid (^) as per the entitlement upon the production of actual bills of (^) expenditure only for the duration of the conference (^) or up to a maximum of 5 days. 
 
-Institute A/c R&DFrojectNo. CPDA Others
+###### 9. The scheme will support all expenditure related to travel, registration, accommodation, 
 
-under the head of:
+travel insurance, VISA processing^ and food. All claims have to be supported by valid 
 
-l.Contingency 2. Consumables 3. Non- 4. TA 5. Others
+copies (^) of bills/statements, in original, failing which no reimbursement will be made. 
 
-consumables
+10. For international travel only, a maximum of 80% of the estimated cost can be taken as 
 
-SN Content Details
+an advance before attending the conference. No (^) advance payment will be made for travel within India. 
 
-1 Name of the Employee/Students & P F
+11. All applicants have to apply online (any time throughout the year) to avail this scherne. 
 
-No/Roll No.:
+Please download the forms and fill them completely. Save your word file as (^) "FAAC Scheme Roll (^) No" (example: (^) "FAAC Scheme_l020101"), generate (^) the PDF and email the same (^) to office_aa@iiserb.ac.in 12. Air travel, both domestic and international (^) should be made (^) only through Air India. For places where Air India does not provide service, travel may be made by other airlines also (subject^ to prior and specific approval in this regard). This is for information (^) and necessary (^) action bv all concerned. Encl: 1. Approval of Travel Support for FAAC Scheme 
 
-2. Designation & Department
-2. Journev Period From:  To:
-2. Travel Destination
-2. Purpose ofjourney
-2. Mode of Travel AIR:  Rail:  Road:  Others:
-2. Approximate  fare (To & Fro)
-2. Amount of Aduance required:
-2. Bank A/c No.
-2. Signature of the Traveler
+2. Joumey Cum Travel Advance Approval 
 
-Forwarded & recommended by Approved as per Rules
+3. Travelline Allowance Bill for FAAC (^) Scheme 
 
-Dept. Coordinator /PI / HOD DoFA/Registrar/Dy. Director/ Director
+###### Copy to: 1. Director, IISER Bhopal 
 
-For Office Use On
+ 2.Deputy Director, IISER Bhopal 
 
-Is there enough balance in the relevant head YES: No:
+3. Registrar, IISER Bhopal 
 
-Is there more than one advance outstanding in this category or more than 3 YES: No: advances in all?
+4. All DeansA{eads of Academic Departments via E-mail 
 
-Advance Reference no & date
+5. Deputy Registrar (F&A) 
 
-Assistant/Accountant Coordinator/ Finance Officer/ Resistrar
+6. All lntegrated Ph.D./Ph.D. students via E-mail 
 
-Advance nt Note
+7. Notice/Website 
 
-1. Name of the PI
-1. Name of the Advance Holder &
 
-   Desiqrration
+qt-{fi-q (^) fuaH RreTT gq (^) er1-qrrq (^) rrqenq dqrf, Indian Institute (^) of Science Education (^) and Research Bhopal Approval (^) of Travel support for FAAC Scheme Name of the Student Nature of ConferenceAVorkshop (enclose (^) original Invitation (^) / Brochure 
 
-3. Aduance Ref. No & Dt
-3. Amount Rs.
-3. Mode of oavment Cash: Cheque: Bank ECS:
-3. Terms & conditions: 1) Only one advance in a category and preferably no more than 2 advances in all are allowed. 2) Check with Dealing Assistant in case of any doubts about the category of an item. 3) Please submit bills to R&D/F&A oflice within two months of receipt of advance.
+##### National (Please 
 
-qrrfi=q f,ff,rq ftren W or$iptTT $i€Trt dwa
+ tick below 
 
-Indian Institute of science Education and Research Bhopal TRAVELLING ALLOWANCE BILL for FAAC Scheme
+ To avail the scheme Details of leave 
 
-Name of the Student
+ Expenditure (Estimate) 
 
-Mode of travel and
+Amount of Advance required, If any (Only for international 
 
-class of accommodat
+Details of financial support from other sources 
 
-ion
+Present (^) a Poster Deliver (^) a Scientific presentation (^) Others (Please specify) No. of Days Total (^) (Rs.) ture (^) of the Student Approved (^) as per (^) rule HOD lDean/ Director Finance Officer 
 
-Total Travel Cost:
 
-Sr.No. Particulars Amount
+Indian Institute (^) of Science Education and Research Bhopal Journeg (^) Cum Trqael Aduance Approaal Account Head: under the head of: l.Contingency (^) 2. Consumables 3. Nonconsumables 
 
-1 VISA processing Fee
+4. TA 5. Others 
 
-2 Registration Charges
+SN Content (^) Details 1 Name of the Employee/Students & P F No/Roll No.: 
 
-Ja Accommodation Charges
+2. Designation & Department 
 
-4  | Others
+3. Journev Period (^) From: (^) To: 
 
-Grant total travel cost: Less Advance. if anv:
+4. Travel Destination 
 
-Net Clairn : Payable/Refundable  (+/-) !
+5. Purpose ofjourney 
 
-Forwarded & Recommended bv PVCoordinator/flOD
+6. Mode of Travel (^) AIR: Rail: Road: Others: 
 
+7. Approximate fare (To & Fro) 
 
-INSTRUCTIONS FOR PREPARING TRAVELLING ALLOWANEEBILLS
+8. Amount^ of Aduance required: 
 
-1. Journey of different kinds and halts should not be entered on the same line.
-1. Billsmustbeproperlypreparedandsubmittedwithin  7 daysofcompletionofjourney. Failure to do so many entail recovery of advance, if drawn, through the Scholarship bill submitted thereafter.
-1. Money Receipts/Ticket numbers/Invoice/Boarding  pass etc. (all in original) should be furnished alons with the T.A. bill.
+9. Bank A/c No. 
 
-CERTIFICATE
+10. Signature of the (^) Traveler Institute A/c (^) R&DFrojectNo. CPDA Others Forwarded & recommended (^) by Approved (^) as per (^) Rules Dept. Coordinator (^) /PI / HOD (^) DoFA/Registrar/Dy. Director/ Director For (^) Office Use On Is there enough balance in (^) the relevant head (^) YES: No: Is there more (^) than one advance outstanding in this category or more than 3 advances in all? YES: No: Advance Reference (^) no & date Assistant/Accountant (^) Coordinator/ Finance (^) Officer/ Resistrar Advance nt Note 1. Name (^) of the PI 2. Name of the Advance Holder (^) & Desiqrration 
 
-Certify that I actually travel in the class to which I am entitled. It was also certified that I did not perform the road journeys for which the mileage have been claimed at the higher rates by taking a single seat in any public conveyance excluding steamer which plies regularly between two fixed points at the fixed rates. It is also certified that I did not perform the journey free of charges or without payment or incuning in running expenses. In case of hiring taxi, it is also certified that the hiring of taxi was essential and road mileage is not claimed from any other source.
+3. Aduance Ref. No & Dt 
 
-- Travelling by road includes travelling by sea or river in a steam launch or in any vessel other than steamer and travelling by canal. (This particular kind should be specified in the
-- bill).In case where the Steamer Company has two rates of fare, one inclusive of diet, the "faxe" should be held to mean. "Fare exclusive of diet."
+4. Amount Rs. 
 
-Date Signature of the student.
+5. Mode of oavment (^) Cash: Cheque: Bank (^) ECS: 6. Terms & conditions: (^) 1) Only one advance in a category and preferably no more than 2 advances in all are allowed. 2) Check with (^) Dealing Assistant in case of any doubts about the category of an item. 3) Please submit bills to R&D/F&A (^) oflice within two months of receipt (^) of advance. 
 
 
-![](Aspose.Words.cd16d631-623c-48c0-b1ed-21d44661e729.006.png)![](Aspose.Words.cd16d631-623c-48c0-b1ed-21d44661e729.007.png)
+qrrfi=q (^) f,ff,rq (^) ftren (^) W or$iptTT (^) $i€Trt (^) dwa Indian Institute (^) of science Education and Research Bhopal TRAVELLING ALLOWANCE (^) BILL (^) for FAAC Scheme Name (^) of the (^) Student Mode (^) of travel and class (^) of accommodat ion Total Travel Cost: Sr.No. (^) Particulars (^) Amount (^1) VISA processing (^) Fee (^2) Registration (^) Charges J^ a (^) Accommodation (^) Charges (^4) | Others Grant total travel cost: Less Advance. (^) if anv: Net Clairn (^) : Payable/Refundable (^) (+/-) (^)! Forwarded (^) & Recommended (^) bv PVCoordinator/flOD Finance (^) Officer (^) / 
 
-[ref1]: Aspose.Words.cd16d631-623c-48c0-b1ed-21d44661e729.004.png
-[ref2]: Aspose.Words.cd16d631-623c-48c0-b1ed-21d44661e729.005.png
+
+ INSTRUCTIONS FOR PREPARING TRAVELLING ALLOWANEEBILLS 
+
+### 1. Journey^ of different kinds^ and^ halts should not^ be entered^ on^ the^ same^ line. 
+
+### 2. Billsmustbeproperlypreparedandsubmittedwithin^ 7 daysofcompletionofjourney. 
+
+ Failure to do so many entail recovery of advance, if drawn, through the^ Scholarship^ bill submitted thereafter. 
+
+### 3. Money Receipts/Ticket numbers/Invoice/Boarding pass^ etc.^ (all in original)^ should^ be 
+
+ furnished alons^ with the^ T.A.^ bill. 
+
+CERTIFICATE 
+
+ Certify that I actually travel in^ the^ class^ to^ which^ I^ am^ entitled.^ It^ was^ also^ certified that^ I did^ not perform the road journeys for which the mileage have been claimed at^ the^ higher^ rates^ by^ taking a single seat in any public^ conveyance excluding steamer^ which^ plies^ regularly^ between^ two fixed points^ at the fixed rates.^ It^ is^ also^ certified^ that^ I^ did^ not^ perform^ the^ journey^ free^ of^ charges or without payment or incuning^ in running^ expenses.^ In^ case^ of hiring taxi,^ it^ is^ also^ certified that the hiring of taxi was essential and road mileage is not claimed from^ any other^ source. 
+
+o (^) Travelling by road includes travelling by sea or river in a steam launch or in any vessel other than steamer and travelling by canal. (This particular kind should be specified^ in^ the bill). o (^) In case where the Steamer Company has two rates of fare, one inclusive of diet, the (^) "faxe" should be^ held^ to^ mean. "Fare exclusive^ of^ diet." Date Signature of^ the student. 
+
+
+
